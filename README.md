@@ -12,13 +12,22 @@ This project intends to document as many FOSS Christian projects as possible. De
 🏗️ = This project may not be finished or in a usable state
 ⚠️ = This project is abandoned and/or not maintained
 
+<a href="##V">V</a>
+
+
 ## A
 
 ### [AndBible](https://github.com/AndBible/and-bible)
 
 Powerful offline Bible Study tool for Android
 
-[🌐](https://andbible.org/)[🤖](https://play.google.com/store/apps/details?id=net.bible.android.activity)
+[🌐](https://andbible.org/) [🤖](https://play.google.com/store/apps/details?id=net.bible.android.activity)
+
+### [apostello](https://github.com/monty5811/apostello/)
+
+SMS communication software for your church
+
+⚠️ [🌐](https://apostello.readthedocs.io/en/latest/)
 
 ## B
 
@@ -26,7 +35,7 @@ Powerful offline Bible Study tool for Android
 
 Simple application that helps you study bible with extra features.
 
-[🌐](https://www.believersword.com/)[🖥️](https://www.believersword.com/)
+[🌐](https://www.believersword.com/) [🖥️](https://www.believersword.com/)
 
 ### [Bible Helper](https://github.com/genu/bible-helper)
 
@@ -64,7 +73,7 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 
 A powerful cross platform Bible study tool
 
-[🌐](https://bibletime.info/)[🖥️](https://github.com/bibletime/bibletime/releases)
+[🌐](https://bibletime.info/) [🖥️](https://github.com/bibletime/bibletime/releases)
 
 ### [Bishop](https://git.crosswire.org/main/bishop)
 
@@ -98,7 +107,7 @@ A timeline of the English Bible
 
 A modern and user-friendly Bible app for desktops and tablets focussing on topical study
 
-[🌐](https://ezrabibleapp.net/)[🖥️🤖](https://github.com/ezra-bible-app/ezra-bible-app/releases)
+[🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ezra-bible-app/ezra-bible-app/releases)
 
 ## F
 

@@ -527,6 +527,6 @@ Contributions are highly encouraged. Please see the [CONTRIBUTING](contributing.
 
 ## 📢 Acknowledgements
 
-Thank you to @mattrob33 for providing a great starting point for this project with [christian-projects](https://github.com/mattrob33/christian-projects).
+Thank you to [@mattrob33](https://github.com/mattrob33) for providing a great starting point for this project with [christian-projects](https://github.com/mattrob33/christian-projects).
 
 ## 🗒️ License: [MIT](LICENSE)

@@ -259,13 +259,23 @@ Modern and user-friendly Bible app for desktops and tablets focussing on topical
 
 ---
 
-### [GNT Reader](https://github.com/mattrob33/gnt-reader-android)
+### [GNT Reader Android](https://github.com/mattrob33/gnt-reader-android)
 
 Digital reader's edition of the Greek New Testament
 
 [🤖](https://play.google.com/store/apps/details?id=com.mattrobertson.greek.reader)
 
 ![Last Commit](https://badgen.net/github/last-commit/mattrob33/gnt-reader-android) ![License](https://badgen.net/github/license/mattrob33/gnt-reader-android) ![Stars](https://badgen.net/github/stars/mattrob33/gnt-reader-android) ![Release](https://badgen.net/github/release/mattrob33/gnt-reader-android) ![Contributors](https://badgen.net/github/contributors/mattrob33/gnt-reader-android) ![Open Issues](https://badgen.net/github/open-issues/mattrob33/gnt-reader-android)
+
+---
+
+### [GNT Reader iOS](https://github.com/mattrob33/gnt-reader-ios)
+
+Digital reader's edition of the Greek New Testament
+
+🍎
+
+![Last Commit](https://badgen.net/github/last-commit/mattrob33/gnt-reader-ios) ![License](https://badgen.net/github/license/mattrob33/gnt-reader-ios) ![Stars](https://badgen.net/github/stars/mattrob33/gnt-reader-ios) ![Release](https://badgen.net/github/release/mattrob33/gnt-reader-ios) ![Contributors](https://badgen.net/github/contributors/mattrob33/gnt-reader-ios) ![Open Issues](https://badgen.net/github/open-issues/mattrob33/gnt-reader-ios)
 
 ---
 

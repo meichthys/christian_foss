@@ -163,6 +163,16 @@ App supporting churches to use digital capabilities for their gatherings and coo
 
 ---
 
+### [christian_foss](https://github.com/meichthys/christian_foss) (This Project!)
+
+ ✝️ Free and Open Source Christian Software Projects 
+ 
+[🌐]([https://github.com/meichthys/christian_foss)
+
+![Last Commit](https://badgen.net/github/last-commit/meichthys/christian_foss) ![License](https://badgen.net/github/license/meichthys/christian_foss) ![Stars](https://badgen.net/github/stars/meichthys/christian_foss) ![Release](https://badgen.net/github/release/meichthys/christian_foss) ![Contributors](https://badgen.net/github/contributors/meichthys/christian_foss) ![Open Issues](https://badgen.net/github/open-issues/meichthys/christian_foss)
+
+---
+
 ### [ChurchCRM](https://github.com/ChurchCRM/CRM)
 
 An OpenSource CRM System Built for Churches

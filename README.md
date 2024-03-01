@@ -371,7 +371,7 @@ Platform for users to keep up with the prayer requests/concerns of others
 
 ---
 
-## [PrayerTracker](https://github.com/bit-badger/PrayerTracker)
+### [PrayerTracker](https://github.com/bit-badger/PrayerTracker)
 
 Prayer request tracking website
 

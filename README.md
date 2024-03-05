@@ -158,6 +158,14 @@ Lengthy timeline of the bible
 
 ---
 
+### [BibleApp](https://github.com/BibleJS/BibleApp) [🖥️](https://github.com/BibleJS/BibleApp/releases)
+
+ 📖 Bible.JS CLI client. Read the Holy Bible via the command line.
+
+![Last Commit](https://badgen.net/github/last-commit/BibleJS/BibleApp) ![License](https://badgen.net/github/license/BibleJS/BibleApp) ![Stars](https://badgen.net/github/stars/BibleJS/BibleApp) ![Release](https://badgen.net/github/release/BibleJS/BibleApp) ![Contributors](https://badgen.net/github/contributors/BibleJS/BibleApp) ![Open Issues](https://badgen.net/github/open-issues/BibleJS/BibleApp)
+
+---
+
 ### [biblehub](https://github.com/joshpetit/biblehub) ⚙️
 
 Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from BibleHub.com (not associated with this project)
@@ -411,6 +419,14 @@ Web-based social networking, email list, online directory, and lightweight docum
 <img src="https://raw.githubusercontent.com/seven1m/onebody/master/public/favicon-196x196.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/seven1m/onebody) ![License](https://badgen.net/github/license/seven1m/onebody) ![Stars](https://badgen.net/github/stars/seven1m/onebody) ![Release](https://badgen.net/github/release/seven1m/onebody) ![Contributors](https://badgen.net/github/contributors/seven1m/onebody) ![Open Issues](https://badgen.net/github/open-issues/seven1m/onebody)
+
+---
+
+### [open-bible](https://github.com/seven1m/open-bibles) ⚙️
+
+Repository of public domain and freely (libre) licensed bible translations in some standard XML formats.
+
+![Last Commit](https://badgen.net/github/last-commit/seven1m/open-bibles) ![License](https://badgen.net/github/license/seven1m/open-bibles) ![Stars](https://badgen.net/github/stars/seven1m/open-bibles) ![Release](https://badgen.net/github/release/seven1m/open-bibles) ![Contributors](https://badgen.net/github/contributors/seven1m/open-bibles) ![Open Issues](https://badgen.net/github/open-issues/seven1m/open-bibles)
 
 ---
 

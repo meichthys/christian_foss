@@ -86,6 +86,14 @@ Simple application that helps you study bible with extra features.
 
 ---
 
+### [bible](https://github.com/thiagobodruk/bible) ⚙️
+
+Bible: JSON + XML
+
+![Last Commit](https://badgen.net/github/last-commit/thiagobodruk/bible) ![License](https://badgen.net/github/license/thiagobodruk/bible) ![Stars](https://badgen.net/github/stars/thiagobodruk/bible) ![Release](https://badgen.net/github/release/thiagobodruk/bible) ![Contributors](https://badgen.net/github/contributors/thiagobodruk/bible) ![Open Issues](https://badgen.net/github/open-issues/thiagobodruk/bible)
+
+---
+
 ### [bible](https://github.com/gratis-bible/bible) ⚙️
 
 Collection of freely licensed translations of biblical text in OSIS format
@@ -155,6 +163,16 @@ A total of 31,102 verses in 32 JSON files, cross referenced to as many as possib
 Lengthy timeline of the bible
 
 ![Last Commit](https://badgen.net/github/last-commit/lifegems/bible-timeline) ![License](https://badgen.net/github/license/lifegems/bible-timeline) ![Stars](https://badgen.net/github/stars/lifegems/bible-timeline) ![Release](https://badgen.net/github/release/lifegems/bible-timeline) ![Contributors](https://badgen.net/github/contributors/lifegems/bible-timeline) ![Open Issues](https://badgen.net/github/open-issues/lifegems/bible-timeline)
+
+---
+
+### [bible.rs](https://github.com/DSpeckhals/bible.rs) [🌐](bible.rs)
+
+A Bible server written in Rust using Actix Web and Diesel
+
+<img src="https://raw.githubusercontent.com/DSpeckhals/bible.rs/master/web/dist/img/bible.rs-512x512.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/DSpeckhals/bible.rs) ![License](https://badgen.net/github/license/DSpeckhals/bible.rs) ![Stars](https://badgen.net/github/stars/DSpeckhals/bible.rs) ![Release](https://badgen.net/github/release/DSpeckhals/bible.rs) ![Contributors](https://badgen.net/github/contributors/DSpeckhals/bible.rs) ![Open Issues](https://badgen.net/github/open-issues/DSpeckhals/bible.rs)
 
 ---
 
@@ -327,6 +345,14 @@ Modern and user-friendly Bible app for desktops and tablets focussing on topical
 ---
 
 ## G
+
+### [geneve_1564](https://github.com/raphink/geneve_1564) ⚙️
+
+LaTeX facsimile of a Bible de Genève, 1564
+
+<img src="https://raw.githubusercontent.com/raphink/geneve_1564/master/images/D_big_vectorized.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/raphink/geneve_1564) ![License](https://badgen.net/github/license/raphink/geneve_1564) ![Stars](https://badgen.net/github/stars/raphink/geneve_1564) ![Release](https://badgen.net/github/release/raphink/geneve_1564) ![Contributors](https://badgen.net/github/contributors/raphink/geneve_1564) ![Open Issues](https://badgen.net/github/open-issues/raphink/geneve_1564)
 
 ---
 

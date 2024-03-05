@@ -65,7 +65,7 @@ Simple application that helps you study bible with extra features.
 
 ---
 
-### [Bible Helper](https://github.com/genu/bible-helper) [🖥️](https://github.com/genu/bible-helper/releases)
+### [Bible Helper](https://github.com/genu/bible-helper) [🍏](https://github.com/genu/bible-helper/releases)
 
 Simple scripture reference lookup tool
 

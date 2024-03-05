@@ -6,12 +6,12 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 
 ## Key
 
-    🌐 = Website Link
-    🤖/🍎 = Mobile App (Android/iOS)
-    🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
-    ⚙️ = API/Framework
-    🏗️ = This project may not be finished or in a usable state
-    ⚠️ = This project is abandoned and/or not maintained
+🌐 = Website Link
+🤖/🍎 = Mobile App (Android/iOS)
+🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
+⚙️ = API/Framework
+🏗️ = This project may not be finished or in a usable state
+⚠️ = This project is abandoned and/or not maintained
 
 ## [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
@@ -116,6 +116,26 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 <img src="https://raw.githubusercontent.com/joshpetit/biblehub/master/assets/sve1.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/joshpetit/biblehub) ![License](https://badgen.net/github/license/joshpetit/biblehub) ![Stars](https://badgen.net/github/stars/joshpetit/biblehub) ![Release](https://badgen.net/github/release/joshpetit/biblehub) ![Contributors](https://badgen.net/github/contributors/joshpetit/biblehub) ![Open Issues](https://badgen.net/github/open-issues/joshpetit/biblehub)
+
+---
+
+### [biblesync](https://github.com/karlkleinpaste/karlkleinpaste/biblesync) ⚙️
+
+Multicast shared co-navigation library for Bible programs
+
+<img src="https://raw.githubusercontent.com/karlkleinpaste/biblesync/master/biblesync-v1.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/karlkleinpaste/karlkleinpaste/biblesync) ![License](https://badgen.net/github/license/karlkleinpaste/karlkleinpaste/biblesync) ![Stars](https://badgen.net/github/stars/karlkleinpaste/karlkleinpaste/biblesync) ![Release](https://badgen.net/github/release/karlkleinpaste/karlkleinpaste/biblesync) ![Contributors](https://badgen.net/github/contributors/karlkleinpaste/karlkleinpaste/biblesync) ![Open Issues](https://badgen.net/github/open-issues/karlkleinpaste/karlkleinpaste/biblesync)
+
+---
+
+### [BibleTime](https://github.com/bibletime/bibletime) [🌐](https://bibletime.info/) [🖥️](https://github.com/bibletime/bibletime/releases)
+
+Powerful cross platform Bible study tool
+
+<img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/icons/bibletime.png" height="100px"> <img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/startuplogo.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/bibletime/bibletime) ![License](https://badgen.net/github/license/bibletime/bibletime) ![Stars](https://badgen.net/github/stars/bibletime/bibletime) ![Release](https://badgen.net/github/release/bibletime/bibletime) ![Contributors](https://badgen.net/github/contributors/bibletime/bibletime) ![Open Issues](https://badgen.net/github/open-issues/bibletime/bibletime)
 
 ---
 

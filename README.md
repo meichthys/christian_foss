@@ -120,6 +120,16 @@ Bible versions and cross-reference databases
 
 ---
 
+### [bible-assistant](https://github.com/nixzhu/Bible-Assistant) ⚙️
+
+Bible Assistant App
+
+<img src="https://raw.githubusercontent.com/nixzhu/Bible-Assistant/master/Bible%20Assistant/Images.xcassets/AppIcon.appiconset/AppIcon76x76%402x.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/nixzhu/Bible-Assistant) ![License](https://badgen.net/github/license/nixzhu/Bible-Assistant) ![Stars](https://badgen.net/github/stars/nixzhu/Bible-Assistant) ![Release](https://badgen.net/github/release/nixzhu/Bible-Assistant) ![Contributors](https://badgen.net/github/contributors/nixzhu/Bible-Assistant) ![Open Issues](https://badgen.net/github/open-issues/nixzhu/Bible-Assistant)
+
+---
+
 ### [bible-crossref](https://github.com/foxprogs/bible-crossref) ⚙️
 
 Small library that returns cross-references for a selected verse or chapter

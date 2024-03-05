@@ -21,6 +21,16 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 
 ---
 
+### [abibliadigital](https://github.com/omarciovsena/abibliadigital) [🌐](http://www.abibliadigital.com.br/) ⚙️
+
+RESTful API for Bible
+
+<img src="https://raw.githubusercontent.com/omarciovsena/abibliadigital/master/public/theme-v2/images/logo-a-biblia-digital.svg" height="100px"> <img src="https://raw.githubusercontent.com/omarciovsena/abibliadigital/master/public/theme/images/logo.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/omarciovsena/abibliadigital) ![License](https://badgen.net/github/license/omarciovsena/abibliadigital) ![Stars](https://badgen.net/github/stars/omarciovsena/abibliadigital) ![Release](https://badgen.net/github/release/omarciovsena/abibliadigital) ![Contributors](https://badgen.net/github/contributors/omarciovsena/abibliadigital) ![Open Issues](https://badgen.net/github/open-issues/omarciovsena/abibliadigital)
+
+---
+
 ### [AndBible](https://github.com/AndBible/and-bible) [🌐](https://andbible.org/) [🤖](https://play.google.com/store/apps/details?id=net.bible.android.activity)
 
 Powerful offline Bible Study tool for Android

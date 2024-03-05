@@ -31,6 +31,17 @@ Powerful offline Bible Study tool for Android
 
 ---
 
+### [androidbible](https://github.com/yukuku/androidbible) [🌐](https://alkitab.app/) [🤖](https://play.google.com/store/apps/details?id=yuku.alkitab)
+
+Open Source Bible for Android
+
+<img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png" height="100px">
+<img src="https://github.com/yukuku/androidbible/blob/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/yukuku/androidbible) ![License](https://badgen.net/github/license/yukuku/androidbible) ![Stars](https://badgen.net/github/stars/yukuku/androidbible) ![Release](https://badgen.net/github/release/yukuku/androidbible) ![Contributors](https://badgen.net/github/contributors/yukuku/androidbible) ![Open Issues](https://badgen.net/github/open-issues/yukuku/androidbible)
+
+---
+
 ### [apostello](https://github.com/monty5811/apostello/) ⚠️ [🌐](https://apostello.readthedocs.io/en/latest/)
 
 SMS communication software for your church

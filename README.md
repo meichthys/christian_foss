@@ -83,6 +83,14 @@ Ruby web app that serves JSON API for open and public domain bibles
 
 ---
 
+### [bible_databases](https://github.com/scrollmapper/bible_databases) [🌐](https://scrollmapper.github.io/) ⚙️
+
+Bible versions and cross-reference databases
+
+![Last Commit](https://badgen.net/github/last-commit/scrollmapper/bible_databases) ![License](https://badgen.net/github/license/scrollmapper/bible_databases) ![Stars](https://badgen.net/github/stars/scrollmapper/bible_databases) ![Release](https://badgen.net/github/release/scrollmapper/bible_databases) ![Contributors](https://badgen.net/github/contributors/scrollmapper/bible_databases) ![Open Issues](https://badgen.net/github/open-issues/scrollmapper/bible_databases)
+
+---
+
 ### [bible-crossref](https://github.com/foxprogs/bible-crossref) ⚙️
 
 Small library that returns cross-references for a selected verse or chapter

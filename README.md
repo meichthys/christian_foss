@@ -166,6 +166,14 @@ Lengthy timeline of the bible
 
 ---
 
+### [BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) ⚙️
+
+Converter written in Java to convert between different Bible program formats
+
+![Last Commit](https://badgen.net/github/last-commit/schierlm/BibleMultiConverter) ![License](https://badgen.net/github/license/schierlm/BibleMultiConverter) ![Stars](https://badgen.net/github/stars/schierlm/BibleMultiConverter) ![Release](https://badgen.net/github/release/schierlm/BibleMultiConverter) ![Contributors](https://badgen.net/github/contributors/schierlm/BibleMultiConverter) ![Open Issues](https://badgen.net/github/open-issues/schierlm/BibleMultiConverter)
+
+---
+
 ### [biblehub](https://github.com/joshpetit/biblehub) ⚙️
 
 Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and information on those verses from BibleHub.com (not associated with this project)

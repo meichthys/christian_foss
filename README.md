@@ -556,6 +556,14 @@ Application that displays verse text on screen when audio verse reference is spo
 
 ---
 
+### [theographic-bible-metadata](https://github.com/robertrouse/theographic-bible-metadata) [🌐](https://theographic.notion.site/About-Theographic-bb40cb93b1ac43bd98252abce225d530)
+
+A knowledge graph of biblical people, places, periods, and passages.
+
+![Last Commit](https://badgen.net/github/last-commit/robertrouse/theographic-bible-metadata) ![License](https://badgen.net/github/license/robertrouse/theographic-bible-metadata) ![Stars](https://badgen.net/github/stars/robertrouse/theographic-bible-metadata) ![Release](https://badgen.net/github/release/robertrouse/theographic-bible-metadata) ![Contributors](https://badgen.net/github/contributors/robertrouse/theographic-bible-metadata) ![Open Issues](https://badgen.net/github/open-issues/robertrouse/theographic-bible-metadata)
+
+---
+
 ### [timeline-of-everything](https://github.com/BenShelton/timeline-of-everything) [🌐](https://timeline-of-everything.netlify.app/)
 
 Comprehensive timeline of Biblical events, characters, prophecies (& their fulfillments), places... everything!

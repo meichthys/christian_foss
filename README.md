@@ -6,13 +6,12 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 
 ## Key
 
-    🌐 = Website Link
-    🤖/🍎 = Mobile App (Android/iOS)
-    🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
-    ⚙️ = API/Framework
-    🏗️ = This project may not be finished or in a usable state
-    ⚠️ = This project is abandoned and/or not maintained
-
+🌐 = Website Link
+🤖/🍎 = Mobile App (Android/iOS)
+🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
+⚙️ = API/Framework
+🏗️ = This project may not be finished or in a usable state
+⚠️ = This project is abandoned and/or not maintained
 ## [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
@@ -33,7 +32,7 @@ Powerful offline Bible Study tool for Android
 
 SMS communication software for your church
 
-<img src="https://raw.githubusercontent.com/monty5811/apostello/master/apostello/static/images/favicons/apostello-logo.svg" height="100px"><img src="https://raw.githubusercontent.com/monty5811/apostello/master/docs/screenshot.png" height="100px">
+<img src="https://raw.githubusercontent.com/monty5811/apostello/master/apostello/static/images/favicons/apostello-logo.svg" height="100px"> <img src="https://raw.githubusercontent.com/monty5811/apostello/master/docs/screenshot.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/monty5811/apostello) ![License](https://badgen.net/github/license/monty5811/apostello) ![Stars](https://badgen.net/github/stars/monty5811/apostello) ![Release](https://badgen.net/github/release/monty5811/apostello) ![Contributors](https://badgen.net/github/contributors/monty5811/apostello) ![Open Issues](https://badgen.net/github/open-issues/monty5811/apostello)
 
@@ -57,7 +56,7 @@ Discord bot to submit prayer requests for the community to pray for
 
 Simple application that helps you study bible with extra features.
 
-<img src="https://raw.githubusercontent.com/Bible-Projects/believers-sword-next/main/FrontEndApp/public/logo.svg" height="100px"><img src="https://www.believersword.com/_nuxt/screen-dark.170f7c5a.png" height="100px">
+<img src="https://raw.githubusercontent.com/Bible-Projects/believers-sword-next/main/FrontEndApp/public/logo.svg" height="100px"> <img src="https://www.believersword.com/_nuxt/screen-dark.170f7c5a.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/Bible-Projects/believers-sword-next) ![License](https://badgen.net/github/license/Bible-Projects/believers-sword-next) ![Stars](https://badgen.net/github/stars/Bible-Projects/believers-sword-next) ![Release](https://badgen.net/github/release/Bible-Projects/believers-sword-next) ![Contributors](https://badgen.net/github/contributors/Bible-Projects/believers-sword-next) ![Open Issues](https://badgen.net/github/open-issues/Bible-Projects/believers-sword-next)
 
@@ -123,7 +122,7 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 
 Powerful cross platform Bible study tool
 
-<img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/icons/bibletime.png" height="100px"><img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/startuplogo.png" height="100px">
+<img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/icons/bibletime.png" height="100px"> <img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/startuplogo.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/bibletime/bibletime) ![License](https://badgen.net/github/license/bibletime/bibletime) ![Stars](https://badgen.net/github/stars/bibletime/bibletime) ![Release](https://badgen.net/github/release/bibletime/bibletime) ![Contributors](https://badgen.net/github/contributors/bibletime/bibletime) ![Open Issues](https://badgen.net/github/open-issues/bibletime/bibletime)
 
@@ -153,7 +152,7 @@ Show control system that handles multimedia, presentations, song lyrics, and lig
 
 App supporting churches to use digital capabilities for their gatherings and cooperations
 
-<img src="https://raw.githubusercontent.com/dioniswe/chabaa/master/presentation/streaming-church-service-1.png" height="100px"><img src="https://raw.githubusercontent.com/dioniswe/chabaa/master/presentation/streaming-church-service-2.png" height="100px"><img src="https://raw.githubusercontent.com/dioniswe/chabaa/master/presentation/mobile-front-page.jpg" height="100px">
+<img src="https://raw.githubusercontent.com/dioniswe/chabaa/master/presentation/streaming-church-service-1.png" height="100px"> <img src="https://raw.githubusercontent.com/dioniswe/chabaa/master/presentation/streaming-church-service-2.png" height="100px"> <img src="https://raw.githubusercontent.com/dioniswe/chabaa/master/presentation/mobile-front-page.jpg" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/dioniswe/chabaa) ![License](https://badgen.net/github/license/dioniswe/chabaa) ![Stars](https://badgen.net/github/stars/dioniswe/chabaa) ![Release](https://badgen.net/github/release/dioniswe/chabaa) ![Contributors](https://badgen.net/github/contributors/dioniswe/chabaa) ![Open Issues](https://badgen.net/github/open-issues/dioniswe/chabaa)
 
@@ -161,7 +160,7 @@ App supporting churches to use digital capabilities for their gatherings and coo
 
 ### [christian_foss](https://github.com/meichthys/christian_foss) (This Project!) [🌐]([https://github.com/meichthys/christian_foss)
 
- ✝️ Free and Open Source Christian Software Projects
+✝️ Free and Open Source Christian Software Projects
 
 ![Last Commit](https://badgen.net/github/last-commit/meichthys/christian_foss) ![License](https://badgen.net/github/license/meichthys/christian_foss) ![Stars](https://badgen.net/github/stars/meichthys/christian_foss) ![Release](https://badgen.net/github/release/meichthys/christian_foss) ![Contributors](https://badgen.net/github/contributors/meichthys/christian_foss) ![Open Issues](https://badgen.net/github/open-issues/meichthys/christian_foss)
 
@@ -223,7 +222,7 @@ Set of scripts to explore the Bible through cross references
 
 Free & open-source application for research and study of God and His Word.
 
-<img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_orig.png" height="100px"><img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_1.jpg" height="100px"><img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_2.jpg" height="100px"><img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_3.jpg" height="100px">
+<img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_orig.png" height="100px"> <img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_1.jpg" height="100px"> <img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_2.jpg" height="100px"> <img src="https://raw.githubusercontent.com/mdbergmann/Eloquent/master/docs/Eloquent_3.jpg" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/mdbergmann/Eloquent) ![License](https://badgen.net/github/license/mdbergmann/Eloquent) ![Stars](https://badgen.net/github/stars/mdbergmann/Eloquent) ![Release](https://badgen.net/github/release/mdbergmann/Eloquent) ![Contributors](https://badgen.net/github/contributors/mdbergmann/Eloquent) ![Open Issues](https://badgen.net/github/open-issues/mdbergmann/Eloquent)
 
@@ -391,7 +390,7 @@ Prayer request tracking website
 
 Projection software designed around the needs of the modern, multimedia rich church
 
-<img src="https://raw.githubusercontent.com/quelea-projection/Quelea/master/Quelea/icons/full%20logo.png" height="100px"><img src="https://raw.githubusercontent.com/quelea-projection/Quelea/master/screenshot.png" height="100px">
+<img src="https://raw.githubusercontent.com/quelea-projection/Quelea/master/Quelea/icons/full%20logo.png" height="100px"> <img src="https://raw.githubusercontent.com/quelea-projection/Quelea/master/screenshot.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/quelea-projection/Quelea) ![License](https://badgen.net/github/license/quelea-projection/Quelea) ![Stars](https://badgen.net/github/stars/quelea-projection/Quelea) ![Release](https://badgen.net/github/release/quelea-projection/Quelea) ![Contributors](https://badgen.net/github/contributors/quelea-projection/Quelea) ![Open Issues](https://badgen.net/github/open-issues/quelea-projection/Quelea)
 
@@ -457,7 +456,7 @@ Library of components for convenient viewing of various biblical events
 
 App to translate Scripture step by step
 
-<img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/vcana-logo-color.svg" height="100px"><img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-01.png" height="100px"><img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-02.png" height="100px"><img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-03.png" height="100px"><img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-04.png" height="100px"><img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-05.png" height="100px">
+<img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/vcana-logo-color.svg" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-01.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-02.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-03.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-04.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-05.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/texttree/v-cana) ![License](https://badgen.net/github/license/texttree/v-cana) ![Stars](https://badgen.net/github/stars/texttree/v-cana) ![Release](https://badgen.net/github/release/texttree/v-cana) ![Contributors](https://badgen.net/github/contributors/texttree/v-cana) ![Open Issues](https://badgen.net/github/open-issues/texttree/v-cana)
 
@@ -467,7 +466,7 @@ App to translate Scripture step by step
 
 Songbook app for use in churches to access song lyrics
 
-<img src="https://raw.githubusercontent.com/Appsmata/vSongbook-Web/master/as-theme/vSong/images/appicon.png" height="100px"><img src="https://raw.githubusercontent.com/Appsmata/vSongbook-Web/master/images/screenshot1.png" height="100px">
+<img src="https://raw.githubusercontent.com/Appsmata/vSongbook-Web/master/as-theme/vSong/images/appicon.png" height="100px"> <img src="https://raw.githubusercontent.com/Appsmata/vSongbook-Web/master/images/screenshot1.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/Appsmata/vSongbook-Web) ![License](https://badgen.net/github/license/Appsmata/vSongbook-Web) ![Stars](https://badgen.net/github/stars/Appsmata/vSongbook-Web) ![Release](https://badgen.net/github/release/Appsmata/vSongbook-Web) ![Contributors](https://badgen.net/github/contributors/Appsmata/vSongbook-Web) ![Open Issues](https://badgen.net/github/open-issues/Appsmata/vSongbook-Web)
 
@@ -495,7 +494,7 @@ iOS app for reading and searching the WCF, WLC, and WSC
 
 Bible study tool written for Linux, UNIX, and Windows
 
-<img src="https://raw.githubusercontent.com/crosswire/xiphos/master/ui/logo.png" height="100px"><img src="https://raw.githubusercontent.com/crosswire/xiphos/master/pixmaps/screenshots/main-window.jpg" height="100px"><img src="https://raw.githubusercontent.com/crosswire/xiphos/master/pixmaps/screenshots/parallel-display.jpg" height="100px">
+<img src="https://raw.githubusercontent.com/crosswire/xiphos/master/ui/logo.png" height="100px"> <img src="https://raw.githubusercontent.com/crosswire/xiphos/master/pixmaps/screenshots/main-window.jpg" height="100px"> <img src="https://raw.githubusercontent.com/crosswire/xiphos/master/pixmaps/screenshots/parallel-display.jpg" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/crosswire/xiphos) ![License](https://badgen.net/github/license/crosswire/xiphos) ![Stars](https://badgen.net/github/stars/crosswire/xiphos) ![Release](https://badgen.net/github/release/crosswire/xiphos) ![Contributors](https://badgen.net/github/contributors/crosswire/xiphos) ![Open Issues](https://badgen.net/github/open-issues/crosswire/xiphos)
 

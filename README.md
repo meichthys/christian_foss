@@ -65,6 +65,14 @@ Simple application that helps you study bible with extra features.
 
 ---
 
+### [bible](https://github.com/gratis-bible/bible) ⚙️
+
+Collection of freely licensed translations of biblical text in OSIS format
+
+![Last Commit](https://badgen.net/github/last-commit/gratis-bible/bible) ![License](https://badgen.net/github/license/gratis-bible/bible) ![Stars](https://badgen.net/github/stars/gratis-bible/bible) ![Release](https://badgen.net/github/release/gratis-bible/bible) ![Contributors](https://badgen.net/github/contributors/gratis-bible/bible) ![Open Issues](https://badgen.net/github/open-issues/gratis-bible/bible)
+
+---
+
 ### [Bible Helper](https://github.com/genu/bible-helper) [🍏](https://github.com/genu/bible-helper/releases)
 
 Simple scripture reference lookup tool

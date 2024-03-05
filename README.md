@@ -376,6 +376,16 @@ A high quality, visual, open source tool to give users access to the Holy Bible 
 
 ---
 
+### [morphhb](https://github.com/openscriptures/morphhb) [🌐](https://hb.openscriptures.org/) ⚙️
+
+Open Scriptures Hebrew Bible
+
+<img src="https://raw.githubusercontent.com/openscriptures/morphhb/master/HomeFiles/Originally.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/openscriptures/morphhb) ![License](https://badgen.net/github/license/openscriptures/morphhb) ![Stars](https://badgen.net/github/stars/openscriptures/morphhb) ![Release](https://badgen.net/github/release/openscriptures/morphhb) ![Contributors](https://badgen.net/github/contributors/openscriptures/morphhb) ![Open Issues](https://badgen.net/github/open-issues/openscriptures/morphhb)
+
+---
+
 ## N
 
 ---

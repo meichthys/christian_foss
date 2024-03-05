@@ -158,6 +158,14 @@ A total of 31,102 verses in 32 JSON files, cross referenced to as many as possib
 
 ---
 
+### [Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) ⚠️ ⚙️
+
+Coffeescript to identify and understand Bible references like "John 3:16."
+
+![Last Commit](https://badgen.net/github/last-commit/openbibleinfo/Bible-Passage-Reference-Parser) ![License](https://badgen.net/github/license/openbibleinfo/Bible-Passage-Reference-Parser) ![Stars](https://badgen.net/github/stars/openbibleinfo/Bible-Passage-Reference-Parser) ![Release](https://badgen.net/github/release/openbibleinfo/Bible-Passage-Reference-Parser) ![Contributors](https://badgen.net/github/contributors/openbibleinfo/Bible-Passage-Reference-Parser) ![Open Issues](https://badgen.net/github/open-issues/openbibleinfo/Bible-Passage-Reference-Parser)
+
+---
+
 ### [bible-timeline](https://github.com/lifegems/bible-timeline) [🌐](http://lifegems.github.io/bible-timeline/)
 
 Lengthy timeline of the bible

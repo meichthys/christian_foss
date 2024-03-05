@@ -45,8 +45,7 @@ Powerful offline Bible Study tool for Android
 
 Open Source Bible for Android
 
-<img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png" height="100px">
-<img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
+<img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png" height="100px"> <img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/yukuku/androidbible) ![License](https://badgen.net/github/license/yukuku/androidbible) ![Stars](https://badgen.net/github/stars/yukuku/androidbible) ![Release](https://badgen.net/github/release/yukuku/androidbible) ![Contributors](https://badgen.net/github/contributors/yukuku/androidbible) ![Open Issues](https://badgen.net/github/open-issues/yukuku/androidbible)
 
@@ -592,7 +591,7 @@ Library of components for convenient viewing of various biblical events
 
 App to translate Scripture step by step
 
-<img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/vcana-logo-color.svg" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-01.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-02.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-03.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-04.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-05.png" height="100px">
+<img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/vcana-logo-color.svg" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-01.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-02.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-03.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/texttree/v-cana) ![License](https://badgen.net/github/license/texttree/v-cana) ![Stars](https://badgen.net/github/stars/texttree/v-cana) ![Release](https://badgen.net/github/release/texttree/v-cana) ![Contributors](https://badgen.net/github/contributors/texttree/v-cana) ![Open Issues](https://badgen.net/github/open-issues/texttree/v-cana)
 

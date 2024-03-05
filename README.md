@@ -427,7 +427,7 @@ Powerful, yet easy to use Bible/Lyric projection software
 
 ---
 
-### [Sword Drill](https://github.com/meichthys/sword_drill) [🖥️](https://github.com/meichthys/sword_drill/releases)
+### [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases)
 
 Application that displays verse text on screen when audio verse reference is spoken
 

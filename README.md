@@ -141,16 +141,6 @@ Powerful cross platform Bible study tool
 
 ---
 
-### [BibleTime](https://github.com/bibletime/bibletime) [🌐](https://bibletime.info/) [🖥️](https://github.com/bibletime/bibletime/releases)
-
-Powerful cross platform Bible study tool
-
-<img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/icons/bibletime.png" height="100px"> <img src="https://raw.githubusercontent.com/bibletime/bibletime/master/pics/startuplogo.png" height="100px">
-
-![Last Commit](https://badgen.net/github/last-commit/bibletime/bibletime) ![License](https://badgen.net/github/license/bibletime/bibletime) ![Stars](https://badgen.net/github/stars/bibletime/bibletime) ![Release](https://badgen.net/github/release/bibletime/bibletime) ![Contributors](https://badgen.net/github/contributors/bibletime/bibletime) ![Open Issues](https://badgen.net/github/open-issues/bibletime/bibletime)
-
----
-
 ### [Bishop](https://git.crosswire.org/main/bishop)
 
 Cordova Frontend for The SWORD Project

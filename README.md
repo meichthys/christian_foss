@@ -46,7 +46,7 @@ Powerful offline Bible Study tool for Android
 Open Source Bible for Android
 
 <img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png" height="100px">
-<img src="https://github.com/yukuku/androidbible/blob/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
+<img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/yukuku/androidbible) ![License](https://badgen.net/github/license/yukuku/androidbible) ![Stars](https://badgen.net/github/stars/yukuku/androidbible) ![Release](https://badgen.net/github/release/yukuku/androidbible) ![Contributors](https://badgen.net/github/contributors/yukuku/androidbible) ![Open Issues](https://badgen.net/github/open-issues/yukuku/androidbible)
 

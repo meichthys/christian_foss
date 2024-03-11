@@ -528,6 +528,14 @@ Projection software designed around the needs of the modern, multimedia rich chu
 
 ---
 
+### [Remember Me](https://gitlab.com/remem-me) [🌐](https://www.remem.me/) [🤖](https://play.google.com/store/apps/details?id=me.remem.app) [🍎](https://apps.apple.com/app/id1600128209)
+
+The free, fun, and effective way to memorize Bible verses! No ads, no restrictions.
+
+<img src="https://gitlab.com/remem-me/app/-/raw/develop/assets/icon/app.png" height="100px">
+
+---
+
 ## S
 
 ---

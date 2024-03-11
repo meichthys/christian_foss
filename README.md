@@ -478,6 +478,8 @@ Worship presentation software designed to fit how you want to run your service.
 
 <img src="https://gitlab.com/openlp/openlp/-/raw/master/resources/images/openlp-about-logo.png" height="100px">
 
+![Last Commit](https://badgen.net/gitlab/last-commit/openlp/openlp) ![License](https://badgen.net/gitlab/license/openlp/openlp) ![Stars](https://badgen.net/gitlab/stars/openlp/openlp) ![Release](https://badgen.net/gitlab/release/openlp/openlp) ![Contributors](https://badgen.net/gitlab/contributors/openlp/openlp) ![Open Issues](https://badgen.net/gitlab/open-issues/openlp/openlp)
+
 ---
 
 ### [OpenSong](https://sourceforge.net/projects/opensong/) [🌐](https://www.opensong.info/) [🪟 🖥️](https://sourceforge.net/projects/opensong/files/OpenSong/)
@@ -533,6 +535,8 @@ Projection software designed around the needs of the modern, multimedia rich chu
 The free, fun, and effective way to memorize Bible verses! No ads, no restrictions.
 
 <img src="https://gitlab.com/remem-me/app/-/raw/develop/assets/icon/app.png" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/remem-me/app) ![License](https://badgen.net/gitlab/license/remem-me/app) ![Stars](https://badgen.net/gitlab/stars/remem-me/app) ![Release](https://badgen.net/gitlab/release/remem-me/app) ![Contributors](https://badgen.net/gitlab/contributors/remem-me/app) ![Open Issues](https://badgen.net/gitlab/open-issues/remem-me/app)
 
 ---
 

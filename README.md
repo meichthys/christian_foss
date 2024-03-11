@@ -13,6 +13,7 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 ⚙️ = API/Framework
 🏗️ = This project may not be finished or in a usable state
 ⚠️ = This project is abandoned and/or not maintained
+TIP: To filter projects by a specific key in this list, copy the key (emoji) and paste it into the heading filter at the top right of this github readme.
 ```
 
 ## [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)

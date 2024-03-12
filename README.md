@@ -230,6 +230,16 @@ Bible multi languages, free, offline, no advertising, completely in English, Fre
 
 ---
 
+### [BibleMultiTheSonOfMan](https://gitlab.com/hotlittlewhitedog/BibleMultiTheSonOfMan) [🤖](https://f-droid.org/en/packages/org.hlwd.bible/)
+
+Bible multi languages for Terminal. Easy to use with quick searches, parables, articles, cross references.
+
+<img src="https://gitlab.com/hotlittlewhitedog/BibleMultiTheSonOfMan/-/raw/master/org.hlwd.sonofman128x128.png?ref_type=heads" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/hotlittlewhitedog/BibleMultiTheSonOfMan) ![License](https://badgen.net/gitlab/license/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Stars](https://badgen.net/gitlab/stars/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Release](https://badgen.net/gitlab/release/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Contributors](https://badgen.net/gitlab/contributors/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Open Issues](https://badgen.net/gitlab/open-issues/hotlittlewhitedog/BibleMultiTheSonOfMan)
+
+---
+
 ### [biblesync](https://github.com/karlkleinpaste/karlkleinpaste/biblesync) ⚙️
 
 Multicast shared co-navigation library for Bible programs

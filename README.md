@@ -11,6 +11,7 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 🤖/🍎 = Mobile App (Android/iOS)
 🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
 ⚙️ = API/Framework
+📑 = Document
 🏗️ = This project may not be finished or in a usable state
 ⚠️ = This project is abandoned and/or not maintained
 TIP: To filter projects by a specific key in this list, copy the key (emoji) and paste it into the heading filter at the top right of this github readme.
@@ -155,6 +156,14 @@ A total of 31,102 verses in 32 JSON files, cross referenced to as many as possib
 ---
 
 ![Last Commit](https://badgen.net/github/last-commit/josephilipraja/bible-cross-reference-json) ![License](https://badgen.net/github/license/josephilipraja/bible-cross-reference-json) ![Stars](https://badgen.net/github/stars/josephilipraja/bible-cross-reference-json) ![Release](https://badgen.net/github/release/josephilipraja/bible-cross-reference-json) ![Contributors](https://badgen.net/github/contributors/josephilipraja/bible-cross-reference-json) ![Open Issues](https://badgen.net/github/open-issues/josephilipraja/bible-cross-reference-json)
+
+---
+
+### [bible-genealogy](https://gitlab.com/bobby.estey/bible-genealogy) 📑
+
+Bible Genealogy Project
+
+![Last Commit](https://badgen.net/gitlab/last-commit/bobby.estey/bible-genealogy) ![License](https://badgen.net/gitlab/license/bobby.estey/bible-genealogy) ![Stars](https://badgen.net/gitlab/stars/bobby.estey/bible-genealogy) ![Release](https://badgen.net/gitlab/release/bobby.estey/bible-genealogy) ![Contributors](https://badgen.net/gitlab/contributors/bobby.estey/bible-genealogy) ![Open Issues](https://badgen.net/gitlab/open-issues/bobby.estey/bible-genealogy)
 
 ---
 
@@ -316,7 +325,7 @@ A free church database network application
 
 ---
 
-### [Compendium](https://github.com/reformed-standards/compendium) [🌐](https://reformedstandards.com/)
+### [Compendium](https://github.com/reformed-standards/compendium) [📑 🌐](https://reformedstandards.com/)
 
 Collection of reformed documents, such as confessions and catechisms
 
@@ -394,7 +403,7 @@ Modern and user-friendly Bible app for desktops and tablets focussing on topical
 
 ## G
 
-### [geneve_1564](https://github.com/raphink/geneve_1564) ⚙️
+### [geneve_1564](https://github.com/raphink/geneve_1564) 📑
 
 LaTeX facsimile of a Bible de Genève, 1564
 
@@ -532,7 +541,7 @@ Worship presentation software designed to fit how you want to run your service.
 
 ---
 
-### [OpenSong](https://sourceforge.net/projects/opensong/) [🌐](https://www.opensong.info/) [🪟 🖥️](https://sourceforge.net/projects/opensong/files/OpenSong/)
+### [OpenSong](https://sourceforge.net/projects/opensong/) [📑 🌐](https://www.opensong.info/) [🪟 🖥️](https://sourceforge.net/projects/opensong/files/OpenSong/)
 
 Lyric projection and chord charts for church musicians
 
@@ -698,7 +707,7 @@ Bible study tool written for Linux, UNIX, and Windows
 
 ---
 
-### [XML-TEI-Bible](https://github.com/morethanbooks/XML-TEI-Bible) ⚙️
+### [XML-TEI-Bible](https://github.com/morethanbooks/XML-TEI-Bible) 📑 ⚙️
 
 Encoding the Bible in TEI, starting with the Gospels
 

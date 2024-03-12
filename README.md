@@ -113,6 +113,17 @@ Simple scripture reference lookup tool
 
 ---
 
+### [Bible Verse](https://gitlab.com/robertmermet/bible-verse) ⚙️ [🌐](http://robertmermet.com/projects/bible-verse/)
+
+Displays a selected Bible verse, or verses, from the KJV.
+You can change the Bible verse by pressing spacebar or by left clicking on the page.
+
+<img src="https://gitlab.com/uploads/-/system/project/avatar/51857120/Screenshot_20231103_111034.png" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/robertmermet/bible-verse) ![License](https://badgen.net/gitlab/license/robertmermet/bible-verse) ![Stars](https://badgen.net/gitlab/stars/robertmermet/bible-verse) ![Release](https://badgen.net/gitlab/release/robertmermet/bible-verse) ![Contributors](https://badgen.net/gitlab/contributors/robertmermet/bible-verse) ![Open Issues](https://badgen.net/gitlab/open-issues/robertmermet/bible-verse)
+
+---
+
 ### [bible_api](https://github.com/seven1m/bible_api) [🌐](https://bible-api.com/) ⚙️
 
 Ruby web app that serves JSON API for open and public domain bibles

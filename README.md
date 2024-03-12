@@ -260,13 +260,13 @@ Bible multi languages for Terminal. Easy to use with quick searches, parables, a
 
 ---
 
-### [biblesync](https://github.com/karlkleinpaste/karlkleinpaste/biblesync) ⚙️
+### [biblesync](https://github.com/karlkleinpaste/biblesync) ⚙️
 
 Multicast shared co-navigation library for Bible programs
 
 <img src="https://raw.githubusercontent.com/karlkleinpaste/biblesync/master/biblesync-v1.png" height="100px">
 
-![Last Commit](https://badgen.net/github/last-commit/karlkleinpaste/karlkleinpaste/biblesync) ![License](https://badgen.net/github/license/karlkleinpaste/karlkleinpaste/biblesync) ![Stars](https://badgen.net/github/stars/karlkleinpaste/karlkleinpaste/biblesync) ![Release](https://badgen.net/github/release/karlkleinpaste/karlkleinpaste/biblesync) ![Contributors](https://badgen.net/github/contributors/karlkleinpaste/karlkleinpaste/biblesync) ![Open Issues](https://badgen.net/github/open-issues/karlkleinpaste/karlkleinpaste/biblesync)
+![Last Commit](https://badgen.net/github/last-commit/karlkleinpaste/biblesync) ![License](https://badgen.net/github/license/karlkleinpaste/biblesync) ![Stars](https://badgen.net/github/stars/karlkleinpaste/biblesync) ![Release](https://badgen.net/github/release/karlkleinpaste/biblesync) ![Contributors](https://badgen.net/github/contributors/karlkleinpaste/biblesync) ![Open Issues](https://badgen.net/github/open-issues/karlkleinpaste/biblesync)
 
 ---
 

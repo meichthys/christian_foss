@@ -192,11 +192,13 @@ A Bible server written in Rust using Actix Web and Diesel
 
 ---
 
-### [BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) ⚙️
+### [BibleBot](https://gitlab.com/kerygmadigital/biblebot/BibleBot) ⚙️
 
-Converter written in Java to convert between different Bible program formats
+✝️ Scripture from your Discord client to your heart.
 
-![Last Commit](https://badgen.net/github/last-commit/schierlm/BibleMultiConverter) ![License](https://badgen.net/github/license/schierlm/BibleMultiConverter) ![Stars](https://badgen.net/github/stars/schierlm/BibleMultiConverter) ![Release](https://badgen.net/github/release/schierlm/BibleMultiConverter) ![Contributors](https://badgen.net/github/contributors/schierlm/BibleMultiConverter) ![Open Issues](https://badgen.net/github/open-issues/schierlm/BibleMultiConverter)
+<img src="https://gitlab.com/kerygmadigital/biblebot/BibleBot/-/raw/master/src/BibleBot.Frontend/data/avatar.png" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/kerygmadigital/biblebot/BibleBot) ![License](https://badgen.net/gitlab/license/kerygmadigital/biblebot/BibleBot) ![Stars](https://badgen.net/gitlab/stars/kerygmadigital/biblebot/BibleBot) ![Release](https://badgen.net/gitlab/release/kerygmadigital/biblebot/BibleBot) ![Contributors](https://badgen.net/gitlab/contributors/kerygmadigital/biblebot/BibleBot) ![Open Issues](https://badgen.net/gitlab/open-issues/kerygmadigital/biblebot/BibleBot)
 
 ---
 
@@ -207,6 +209,14 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 <img src="https://raw.githubusercontent.com/joshpetit/biblehub/master/assets/sve1.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/joshpetit/biblehub) ![License](https://badgen.net/github/license/joshpetit/biblehub) ![Stars](https://badgen.net/github/stars/joshpetit/biblehub) ![Release](https://badgen.net/github/release/joshpetit/biblehub) ![Contributors](https://badgen.net/github/contributors/joshpetit/biblehub) ![Open Issues](https://badgen.net/github/open-issues/joshpetit/biblehub)
+
+---
+
+### [BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) ⚙️
+
+Converter written in Java to convert between different Bible program formats
+
+![Last Commit](https://badgen.net/github/last-commit/schierlm/BibleMultiConverter) ![License](https://badgen.net/github/license/schierlm/BibleMultiConverter) ![Stars](https://badgen.net/github/stars/schierlm/BibleMultiConverter) ![Release](https://badgen.net/github/release/schierlm/BibleMultiConverter) ![Contributors](https://badgen.net/github/contributors/schierlm/BibleMultiConverter) ![Open Issues](https://badgen.net/github/open-issues/schierlm/BibleMultiConverter)
 
 ---
 
@@ -469,6 +479,16 @@ Web-based social networking, email list, online directory, and lightweight docum
 Repository of public domain and freely (libre) licensed bible translations in some standard XML formats.
 
 ![Last Commit](https://badgen.net/github/last-commit/seven1m/open-bibles) ![License](https://badgen.net/github/license/seven1m/open-bibles) ![Stars](https://badgen.net/github/stars/seven1m/open-bibles) ![Release](https://badgen.net/github/release/seven1m/open-bibles) ![Contributors](https://badgen.net/github/contributors/seven1m/open-bibles) ![Open Issues](https://badgen.net/github/open-issues/seven1m/open-bibles)
+
+---
+
+### [OpenBible](https://github.com/danzuep/OpenBible) [🌐](https://danzuep.github.io/OpenBible/) [🤖](https://github.com/danzuep/OpenBible/releases/latest)
+
+Open-source, cross platform Bible app written in C# MAUI for mobile and PC, and a Blazor SPA for the web.
+
+<img src="https://raw.githubusercontent.com/danzuep/OpenBible/main/Bible.Web/wwwroot/icon-192.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/danzuep/OpenBible) ![License](https://badgen.net/github/license/danzuep/OpenBible) ![Stars](https://badgen.net/github/stars/danzuep/OpenBible) ![Release](https://badgen.net/github/release/danzuep/OpenBible) ![Contributors](https://badgen.net/github/contributors/danzuep/OpenBible) ![Open Issues](https://badgen.net/github/open-issues/danzuep/OpenBible)
 
 ---
 

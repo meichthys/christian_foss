@@ -220,6 +220,16 @@ Converter written in Java to convert between different Bible program formats
 
 ---
 
+### [BibleMultiTheLight](https://gitlab.com/hotlittlewhitedog/BibleMultiTheLight) [🤖](https://f-droid.org/en/packages/org.hlwd.bible/)
+
+Bible multi languages, free, offline, no advertising, completely in English, French, Italian, Spanish, Portuguese.
+
+<img src="https://gitlab.com/hotlittlewhitedog/BibleMultiTheLight/-/raw/master/fastlane/metadata/android/en-US/images/icon.png" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/hotlittlewhitedog/BibleMultiTheLight) ![License](https://badgen.net/gitlab/license/hotlittlewhitedog/BibleMultiTheLight) ![Stars](https://badgen.net/gitlab/stars/hotlittlewhitedog/BibleMultiTheLight) ![Release](https://badgen.net/gitlab/release/hotlittlewhitedog/BibleMultiTheLight) ![Contributors](https://badgen.net/gitlab/contributors/hotlittlewhitedog/BibleMultiTheLight) ![Open Issues](https://badgen.net/gitlab/open-issues/hotlittlewhitedog/BibleMultiTheLight)
+
+---
+
 ### [biblesync](https://github.com/karlkleinpaste/karlkleinpaste/biblesync) ⚙️
 
 Multicast shared co-navigation library for Bible programs

@@ -531,6 +531,14 @@ Open-source, cross platform Bible app written in C# MAUI for mobile and PC, and 
 
 ---
 
+### [OpenHymnal](http://openhymnal.org/) [📑 🌐](http://openhymnal.org/)
+
+Freely distributable, downloadable database of Christian hymns, spiritual songs, and prelude/postlude music
+
+<img src="http://openhymnal.org/bg-hires-trans-mini-2012.png" height="100px">
+
+---
+
 ### [OpenLP](https://gitlab.com/openlp/openlp) [🌐](https://openlp.org/) [🤖](https://play.google.com/store/apps/details?id=ch.currenttechnology.openlp) [🍎](https://apps.apple.com/us/app/openlp-remote/id1096218725) [🪟 🍏 🖥️](https://openlp.org/#downloads)
 
 Worship presentation software designed to fit how you want to run your service.

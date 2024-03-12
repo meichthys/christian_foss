@@ -336,6 +336,16 @@ Simplified, web-based church presentation system.
 
 ---
 
+### [Dauf](https://gitlab.com/dauf-l/dauf-app) [🌐](https://danielblandes.com/portfolio/item/dauf/)
+
+Are you tired of struggling to find a reliable software solution to display Scripture effectively on the big screen at your church? Look no further than Dauf - the innovative app designed to revolutionize your sermon engagement experience.
+
+<img src="https://gitlab.com/uploads/-/system/project/avatar/39304003/dauf.png" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/dauf-l/dauf-app) ![License](https://badgen.net/gitlab/license/dauf-l/dauf-app) ![Stars](https://badgen.net/gitlab/stars/dauf-l/dauf-app) ![Release](https://badgen.net/gitlab/release/dauf-l/dauf-app) ![Contributors](https://badgen.net/gitlab/contributors/dauf-l/dauf-app) ![Open Issues](https://badgen.net/gitlab/open-issues/dauf-l/dauf-app)
+
+---
+
 ### [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) ⚠️
 
 Set of scripts to explore the Bible through cross references

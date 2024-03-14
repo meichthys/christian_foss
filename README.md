@@ -2,7 +2,7 @@
 
 This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value.
 
-"Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God." - Hebrews 13:16
+*"Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God."* ~ Hebrews 13:16
 
 ## Key
 

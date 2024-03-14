@@ -178,11 +178,35 @@ Bible Genealogy Project
 
 ---
 
+### [Bible-Geocoding-Data](https://github.com/openbibleinfo/Bible-Geocoding-Data) ⚠️ ⚙️
+
+Geographic data for every place mentioned in the Protestant Bible.
+
+![Last Commit](https://badgen.net/github/last-commit/openbibleinfo/Bible-Geocoding-Data) ![License](https://badgen.net/github/license/openbibleinfo/Bible-Geocoding-Data) ![Stars](https://badgen.net/github/stars/openbibleinfo/Bible-Geocoding-Data) ![Release](https://badgen.net/github/release/openbibleinfo/Bible-Geocoding-Data) ![Contributors](https://badgen.net/github/contributors/openbibleinfo/Bible-Geocoding-Data) ![Open Issues](https://badgen.net/github/open-issues/openbibleinfo/Bible-Geocoding-Data)
+
+---
+
 ### [Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) ⚠️ ⚙️
 
 Coffeescript to identify and understand Bible references like "John 3:16."
 
 ![Last Commit](https://badgen.net/github/last-commit/openbibleinfo/Bible-Passage-Reference-Parser) ![License](https://badgen.net/github/license/openbibleinfo/Bible-Passage-Reference-Parser) ![Stars](https://badgen.net/github/stars/openbibleinfo/Bible-Passage-Reference-Parser) ![Release](https://badgen.net/github/release/openbibleinfo/Bible-Passage-Reference-Parser) ![Contributors](https://badgen.net/github/contributors/openbibleinfo/Bible-Passage-Reference-Parser) ![Open Issues](https://badgen.net/github/open-issues/openbibleinfo/Bible-Passage-Reference-Parser)
+
+---
+
+### [Bible-Query-Parser](https://github.com/openbibleinfo/Bible-Query-Parser) ⚠️ ⚙️
+
+Javascript to convert Bible references from OSIS to human-readable formats and Paratext.
+
+![Last Commit](https://badgen.net/github/last-commit/openbibleinfo/Bible-Query-Parser) ![License](https://badgen.net/github/license/openbibleinfo/Bible-Query-Parser) ![Stars](https://badgen.net/github/stars/openbibleinfo/Bible-Query-Parser) ![Release](https://badgen.net/github/release/openbibleinfo/Bible-Query-Parser) ![Contributors](https://badgen.net/github/contributors/openbibleinfo/Bible-Query-Parser) ![Open Issues](https://badgen.net/github/open-issues/openbibleinfo/Bible-Query-Parser)
+
+---
+
+### [Bible-Reference-Formatter](https://github.com/openbibleinfo/Bible-Reference-Formatter) ⚠️ ⚙️
+
+Javascript to convert Bible references from OSIS to human-readable formats and Paratext.
+
+![Last Commit](https://badgen.net/github/last-commit/openbibleinfo/Bible-Reference-Formatter) ![License](https://badgen.net/github/license/openbibleinfo/Bible-Reference-Formatter) ![Stars](https://badgen.net/github/stars/openbibleinfo/Bible-Reference-Formatter) ![Release](https://badgen.net/github/release/openbibleinfo/Bible-Reference-Formatter) ![Contributors](https://badgen.net/github/contributors/openbibleinfo/Bible-Reference-Formatter) ![Open Issues](https://badgen.net/github/open-issues/openbibleinfo/Bible-Reference-Formatter)
 
 ---
 

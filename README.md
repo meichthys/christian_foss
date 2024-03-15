@@ -1,4 +1,4 @@
-# Christian FOSS
+# ✝️ Christian FOSS
 
 This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value.
 

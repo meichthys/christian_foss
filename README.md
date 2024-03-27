@@ -775,3 +775,10 @@ Contributions are highly encouraged. Please see the [CONTRIBUTING](contributing.
 Thank you to [@mattrob33](https://github.com/mattrob33) for providing a great starting point for this project with [christian-projects](https://github.com/mattrob33/christian-projects).
 
 ## 🗒️ License: [MIT](LICENSE)
+
+## 💰 Support
+
+Maintaining this list of projects takes a lot of time. If you found this comparison helpful, please let me know by considering supporting me. This lets me know that someone is finding this project useful and gives me an incentive to keep it up to date.
+You can support me on Liberapay or Github Sponsors:
+
+<a href="https://liberapay.com/meichthys/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>

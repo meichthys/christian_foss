@@ -1,8 +1,8 @@
-# ✝️ Christian FOSS
+# Christian FOSS
 
 This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value.
 
-*"Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God."* ~ Hebrews 13:16
+"Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God." - Hebrews 13:16
 
 ## Key
 
@@ -783,10 +783,3 @@ Contributions are highly encouraged. Please see the [CONTRIBUTING](contributing.
 Thank you to [@mattrob33](https://github.com/mattrob33) for providing a great starting point for this project with [christian-projects](https://github.com/mattrob33/christian-projects).
 
 ## 🗒️ License: [MIT](LICENSE)
-
-## 💰 Support
-
-Maintaining this list of projects takes a lot of time. If you found this comparison helpful, please let me know by considering supporting me. This lets me know that someone is finding this project useful and gives me an incentive to keep it up to date.
-You can support me on Liberapay or Github Sponsors:
-
-<a href="https://liberapay.com/meichthys/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>

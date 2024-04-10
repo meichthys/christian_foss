@@ -666,6 +666,14 @@ Application that displays verse text on screen when audio verse reference is spo
 
 ---
 
+### [sword_studybibles](https://github.com/AndBible/sword_studybibles) [⚙️](https://github.com/AndBible/sword_studybibles)
+
+Convert Study Bible ePub files into SWORD modules
+
+![Last Commit](https://badgen.net/github/last-commit/AndBible/sword_studybibles) ![License](https://badgen.net/github/license/AndBible/sword_studybibles) ![Stars](https://badgen.net/github/stars/AndBible/sword_studybibles) ![Release](https://badgen.net/github/release/AndBible/sword_studybibles) ![Contributors](https://badgen.net/github/contributors/AndBible/sword_studybibles) ![Open Issues](https://badgen.net/github/open-issues/AndBible/sword_studybibles)
+
+---
+
 ## T
 
 ---

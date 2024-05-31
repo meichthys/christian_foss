@@ -536,7 +536,7 @@ Web-based tool which helps churches keep track of people, families, groups, atte
 
 ---
 
-### [LessonsApp](https://github.com/ChurchApps/LessonsApp) [🌐](https://lessons-app-beryl.cercel.app/)
+### [LessonsApp](https://github.com/ChurchApps/LessonsApp) [🌐](https://lessons-app-beryl.vercel.app/)
 
 Front end for viewing and subscribing to lessons
 

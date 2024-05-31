@@ -77,6 +77,16 @@ Discord bot to submit prayer requests for the community to pray for
 
 ---
 
+### [B1App](https://github.com/ChurchApps/B1App) [🌐](https://b1.church/) [🌐](https://github.com/ChurchApps/B1App/releases)
+
+Public facing output of the church website builder
+
+<img src="https://github.com/ChurchApps/B1App/blob/main/public/images/logo.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ChurchApps/B1App) ![License](https://badgen.net/github/license/ChurchApps/B1App) ![Stars](https://badgen.net/github/stars/ChurchApps/B1App) ![Release](https://badgen.net/github/release/ChurchApps/B1App) ![Contributors](https://badgen.net/github/contributors/ChurchApps/B1App) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/B1App)
+
+---
+
 ### [Believers Sword](https://github.com/Bible-Projects/believers-sword-next) [🌐](https://www.believersword.com/) [🪟](https://www.believersword.com/)
 
 Simple application that helps you study bible with extra features.
@@ -342,6 +352,16 @@ App supporting churches to use digital capabilities for their gatherings and coo
 
 ---
 
+### [ChumsApp](https://github.com/ChurchApps/ChumsApp) [🌐](https://chums.org/) [🌐](https://github.com/ChurchApps/ChumsApp/releases)
+
+CHUrch Management Software
+
+<img src="https://github.com/ChurchApps/ChumsApp/blob/main/public/images/logo.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ChurchApps/ChumsApp) ![License](https://badgen.net/github/license/ChurchApps/ChumsApp) ![Stars](https://badgen.net/github/stars/ChurchApps/ChumsApp) ![Release](https://badgen.net/github/release/ChurchApps/ChumsApp) ![Contributors](https://badgen.net/github/contributors/ChurchApps/ChumsApp) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/ChumsApp)
+
+---
+
 ### [ChurchCRM](https://github.com/ChurchCRM/CRM) [🌐](https://churchcrm.io/)
 
 An OpenSource CRM System Built for Churches
@@ -422,7 +442,7 @@ A timeline of the English Bible
 
 ---
 
-### [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) [🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ezra-bible-app/ezra-bible-app/releases)
+### [Ezra Bible App](https://github.com/ChurchApps/FreeShow) [🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ChurchApps/FreeShow/releases)
 
 Modern and user-friendly Bible app for desktops and tablets focussing on topical study
 
@@ -433,6 +453,16 @@ Modern and user-friendly Bible app for desktops and tablets focussing on topical
 ---
 
 ## F
+
+---
+
+### [FreeShow](https://github.com/ChurchApps/FreeShow) [🌐](https://freeshow.app/) [🖥️](https://github.com/ChurchApps/FreeShow/releases)
+
+A free and open-source, user-friendly presenter software
+
+<img src="https://github.com/ChurchApps/FreeShow/blob/main/public/icon.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ChurchApps/FreeShow) ![License](https://badgen.net/github/license/ChurchApps/FreeShow) ![Stars](https://badgen.net/github/stars/ChurchApps/FreeShow) ![Release](https://badgen.net/github/release/ChurchApps/FreeShow) ![Contributors](https://badgen.net/github/contributors/ChurchApps/FreeShow) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/FreeShow)
 
 ---
 
@@ -503,6 +533,16 @@ Web-based tool which helps churches keep track of people, families, groups, atte
 ---
 
 ## L
+
+---
+
+### [LessonsApp](https://github.com/ChurchApps/LessonsApp) [🌐](https://lessons-app-beryl.cercel.app/)
+
+Front end for viewing and subscribing to lessons
+
+<img src="https://github.com/ChurchApps/LessonsApp/blob/main/public/images/logo.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ChurchApps/LessonsApp) ![License](https://badgen.net/github/license/ChurchApps/LessonsApp) ![Stars](https://badgen.net/github/stars/ChurchApps/LessonsApp) ![Release](https://badgen.net/github/release/ChurchApps/LessonsApp) ![Contributors](https://badgen.net/github/contributors/ChurchApps/LessonsApp) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/LessonsApp)
 
 ---
 

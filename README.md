@@ -696,6 +696,14 @@ The free, fun, and effective way to memorize Bible verses! No ads, no restrictio
 
 ---
 
+### [Sermon Notes](https://gitea.rkprather.com/ryan/sermon-notes?ref=selfh.st)
+
+Program to take notes during a sermon
+
+<img src="https://gitea.rkprather.com/ryan/sermon-notes/raw/branch/main/logo/vecteezy_notes-icon-in-trendy-flat-style-isolated-on-white_29722382.jpg" height="100px">
+
+---
+
 ### [softProjector](https://github.com/SoftProjector/softprojector) [🌐](http://softprojector.org/) [🪟 🍏](https://github.com/SoftProjector/softprojector/releases)
 
 Powerful, yet easy to use Bible/Lyric projection software

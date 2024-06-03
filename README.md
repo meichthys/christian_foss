@@ -294,6 +294,16 @@ Bible multi languages for Terminal. Easy to use with quick searches, parables, a
 
 ---
 
+### [BibleNotify](https://github.com/BibleNotify/BibleNotify) [🤖](https://github.com/BibleNotify/BibleNotify/releases) [🪟/🍏/🖥️](https://github.com/BibleNotify/BibleNotifyDesktop/releases)
+
+Offline, privacy-friendly daily Bible verse notification app
+
+<img src="https://github.com/BibleNotify/BibleNotify/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/BibleNotify/BibleNotify) ![License](https://badgen.net/github/license/BibleNotify/BibleNotify) ![Stars](https://badgen.net/github/stars/BibleNotify/BibleNotify) ![Release](https://badgen.net/github/release/BibleNotify/BibleNotify) ![Contributors](https://badgen.net/github/contributors/BibleNotify/BibleNotify) ![Open Issues](https://badgen.net/github/open-issues/BibleNotify/BibleNotify)
+
+---
+
 ### [biblesync](https://github.com/karlkleinpaste/biblesync) ⚙️
 
 Multicast shared co-navigation library for Bible programs

@@ -788,6 +788,16 @@ Songbook app for use in churches to access song lyrics
 
 ---
 
+### [Vacation-Bible-School-System](https://github.com/prabhu-qea/Vacation-Bible-School-System) 🌐
+
+An innovative web-based platform designed specifically for churches to simplify and modernise the administration of Vacation Bible Schools
+
+<img src="https://raw.githubusercontent.com/prabhu-qea/Vacation-Bible-School-System/main/img/logo.jpg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/prabhu-qea/Vacation-Bible-School-System) ![License](https://badgen.net/github/license/prabhu-qea/Vacation-Bible-School-System) ![Stars](https://badgen.net/github/stars/prabhu-qea/Vacation-Bible-School-System) ![Release](https://badgen.net/github/release/prabhu-qea/Vacation-Bible-School-System) ![Contributors](https://badgen.net/github/contributors/prabhu-qea/Vacation-Bible-School-System) ![Open Issues](https://badgen.net/github/open-issues/prabhu-qea/Vacation-Bible-School-System)
+
+---
+
 ## W
 
 ---

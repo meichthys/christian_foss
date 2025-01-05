@@ -452,7 +452,7 @@ A timeline of the English Bible
 
 ---
 
-### [Ezra Bible App](https://github.com/ChurchApps/FreeShow) [🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ChurchApps/FreeShow/releases)
+### [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) [🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ChurchApps/FreeShow/releases)
 
 Modern and user-friendly Bible app for desktops and tablets focussing on topical study
 

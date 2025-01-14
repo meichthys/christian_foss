@@ -471,6 +471,16 @@ Modern and user-friendly Bible app for desktops and tablets focussing on topical
 
 ---
 
+### [fetch](https://github.com/gracious-tech/fetch) [⚙️](https://fetch.bible/)
+
+Digital access to numerous Bible translations
+
+<img src="https://raw.githubusercontent.com/gracious-tech/fetch/refs/heads/master/branding/icon.svg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/gracious-tech/fetch) ![License](https://badgen.net/github/license/gracious-tech/fetch) ![Stars](https://badgen.net/github/stars/gracious-tech/fetch) ![Release](https://badgen.net/github/release/gracious-tech/fetch) ![Contributors](https://badgen.net/github/contributors/gracious-tech/fetch) ![Open Issues](https://badgen.net/github/open-issues/gracious-tech/fetch)
+
+---
+
 ### [FreeShow](https://github.com/ChurchApps/FreeShow) [🌐](https://freeshow.app/) [🖥️](https://github.com/ChurchApps/FreeShow/releases)
 
 A free and open-source, user-friendly presenter software
@@ -558,6 +568,17 @@ Front end for viewing and subscribing to lessons
 <img src="https://github.com/ChurchApps/LessonsApp/blob/main/public/images/logo.png?raw=true" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/ChurchApps/LessonsApp) ![License](https://badgen.net/github/license/ChurchApps/LessonsApp) ![Stars](https://badgen.net/github/stars/ChurchApps/LessonsApp) ![Release](https://badgen.net/github/release/ChurchApps/LessonsApp) ![Contributors](https://badgen.net/github/contributors/ChurchApps/LessonsApp) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/LessonsApp)
+
+---
+
+### [level](https://github.com/hiscoder-com/level) [🌐](https://level.bible/)
+
+App to translate Scripture step by step
+
+<img src="https://raw.githubusercontent.com/hiscoder-com/level/master/public/icons/level-logo-color.svg" height="100px"> <br>
+<img src="https://raw.githubusercontent.com/hiscoder-com/level/master/public/how-it-work/how-it-work-01.webp" height="100px"> <img src="https://raw.githubusercontent.com/hiscoder-com/level/master/public/how-it-work/how-it-work-02.webp" height="100px"> <img src="https://raw.githubusercontent.com/hiscoder-com/level/master/public/how-it-work/how-it-work-03.webp" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/hiscoder-com/level) ![License](https://badgen.net/github/license/hiscoder-com/level) ![Stars](https://badgen.net/github/stars/hiscoder-com/level) ![Release](https://badgen.net/github/release/hiscoder-com/level) ![Contributors](https://badgen.net/github/contributors/hiscoder-com/level) ![Open Issues](https://badgen.net/github/open-issues/hiscoder-com/level)
 
 ---
 
@@ -651,6 +672,16 @@ Lyric projection and chord charts for church musicians
 
 ---
 
+### [paper](https://github.com/gracious-tech/paper) [🌐](https://prayer.bitbadger.solutions/)
+
+Free app for printing Scripture
+
+<img src="https://raw.githubusercontent.com/gracious-tech/paper/refs/heads/main/branding/icon.svg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/gracious-tech/paper) ![License](https://badgen.net/github/license/gracious-tech/paper) ![Stars](https://badgen.net/github/stars/gracious-tech/paper) ![Release](https://badgen.net/github/release/gracious-tech/paper) ![Contributors](https://badgen.net/github/contributors/gracious-tech/paper) ![Open Issues](https://badgen.net/github/open-issues/gracious-tech/paper)
+
+---
+
 ### [prayerKeeper](https://github.com/ivanwhuang/prayerKeeper) ⚠️
 
 Platform for users to keep up with the prayer requests/concerns of others
@@ -719,6 +750,16 @@ Powerful, yet easy to use Bible/Lyric projection software
 
 ---
 
+### [Stello](https://github.com/gracious-tech/stello) [🌐](https://stello.news/)
+
+Send secure newsletters
+
+<img src="https://raw.githubusercontent.com/gracious-tech/stello/refs/heads/master/app/src/branding/logo.svg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/gracious-tech/stello) ![License](https://badgen.net/github/license/gracious-tech/stello) ![Stars](https://badgen.net/github/stars/gracious-tech/stello) ![Release](https://badgen.net/github/release/gracious-tech/stello) ![Contributors](https://badgen.net/github/contributors/gracious-tech/stello) ![Open Issues](https://badgen.net/github/open-issues/gracious-tech/stello)
+
+---
+
 ### [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases)
 
 Application that displays verse text on screen when audio verse reference is spoken
@@ -765,21 +806,21 @@ Library of components for convenient viewing of various biblical events
 
 ---
 
+### [track](https://github.com/gracious-tech/track) [🌐](https://track.bible/)
+
+Keep track of your Bible reading, and complete it at your own pace
+
+<img src="https://raw.githubusercontent.com/gracious-tech/track/refs/heads/master/src/assets/logo_app.svg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/gracious-tech/track) ![License](https://badgen.net/github/license/gracious-tech/track) ![Stars](https://badgen.net/github/stars/gracious-tech/track) ![Release](https://badgen.net/github/release/gracious-tech/track) ![Contributors](https://badgen.net/github/contributors/gracious-tech/track) ![Open Issues](https://badgen.net/github/open-issues/gracious-tech/track)
+
+---
+
 ## U
 
 ---
 
 ## V
-
----
-
-### [v-cana](https://github.com/texttree/v-cana) [🌐](https://v-cana.com/)
-
-App to translate Scripture step by step
-
-<img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/vcana-logo-color.svg" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-01.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-02.png" height="100px"> <img src="https://raw.githubusercontent.com/texttree/v-cana/master/public/how-it-work-03.png" height="100px">
-
-![Last Commit](https://badgen.net/github/last-commit/texttree/v-cana) ![License](https://badgen.net/github/license/texttree/v-cana) ![Stars](https://badgen.net/github/stars/texttree/v-cana) ![Release](https://badgen.net/github/release/texttree/v-cana) ![Contributors](https://badgen.net/github/contributors/texttree/v-cana) ![Open Issues](https://badgen.net/github/open-issues/texttree/v-cana)
 
 ---
 

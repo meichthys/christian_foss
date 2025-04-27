@@ -760,6 +760,43 @@ Send secure newsletters
 
 ---
 
+### [step](https://github.com/STEPBible/step) [🌐](https://www.stepbible.org/)
+
+STEP :: Scripture Tools for Every Person
+
+<img src="https://raw.githubusercontent.com/STEPBible/step/refs/heads/master/step-web/src/main/webapp/images/STEPBible_logo.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/STEPBible/step) ![License](https://badgen.net/github/license/STEPBible/step) ![Stars](https://badgen.net/github/stars/STEPBible/step) ![Release](https://badgen.net/github/release/STEPBible/step) ![Contributors](https://badgen.net/github/contributors/STEPBible/step) ![Open Issues](https://badgen.net/github/open-issues/STEPBible/step)
+
+---
+
+### [STEPBible-Data](https://github.com/STEPBible/STEPBible-Data) ⚙️
+
+Data created for www.STEPBible.org, available to other projects under CC BY 4.0
+
+![Last Commit](https://badgen.net/github/last-commit/STEPBible/STEPBible-Data) ![License](https://badgen.net/github/license/STEPBible/STEPBible-Data) ![Stars](https://badgen.net/github/stars/STEPBible/STEPBible-Data) ![Release](https://badgen.net/github/release/STEPBible/STEPBible-Data) ![Contributors](https://badgen.net/github/contributors/STEPBible/STEPBible-Data) ![Open Issues](https://badgen.net/github/open-issues/STEPBible/STEPBible-Data)
+
+---
+
+### [BibleEngine](https://github.com/STEPBible/BibleEngine) ⚙️
+
+General purpose library for powering JavaScript Bible projects
+
+![Last Commit](https://badgen.net/github/last-commit/STEPBible/BibleEngine) ![License](https://badgen.net/github/license/STEPBible/BibleEngine) ![Stars](https://badgen.net/github/stars/STEPBible/BibleEngine) ![Release](https://badgen.net/github/release/STEPBible/BibleEngine) ![Contributors](https://badgen.net/github/contributors/STEPBible/BibleEngine) ![Open Issues](https://badgen.net/github/open-issues/STEPBible/BibleEngine)
+
+
+---
+
+### [stepmobile](https://github.com/STEPBible/stepmobile) [🍎]()[🤖]()
+
+iOS/Android App for STEP Bible
+
+<img src="https://raw.githubusercontent.com/STEPBible/stepmobile/refs/heads/master/assets/icon.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/STEPBible/stepmobile) ![License](https://badgen.net/github/license/STEPBible/stepmobile) ![Stars](https://badgen.net/github/stars/STEPBible/stepmobile) ![Release](https://badgen.net/github/release/STEPBible/stepmobile) ![Contributors](https://badgen.net/github/contributors/STEPBible/stepmobile) ![Open Issues](https://badgen.net/github/open-issues/STEPBible/stepmobile)
+
+---
+
 ### [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases)
 
 Application that displays verse text on screen when audio verse reference is spoken

@@ -624,6 +624,16 @@ Open Scriptures Hebrew Bible
 
 ---
 
+### [Open Bible Text](https://github.com/hiscoder-com/obt) [🌐](https://openbibletext.com/)
+
+ An application for advanced Bible study using opensource materials from git.door43.org.
+
+<img src="https://github.com/hiscoder-com/obt/blob/main/src/docs/images/logo_obt.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/hiscoder-com/obt) ![License](https://badgen.net/github/license/hiscoder-com/obt) ![Stars](https://badgen.net/github/stars/hiscoder-com/obt) ![Release](https://badgen.net/github/release/hiscoder-com/obt) ![Contributors](https://badgen.net/github/contributors/hiscoder-com/obt) ![Open Issues](https://badgen.net/github/open-issues/hiscoder-com/obt)
+
+---
+
 ### [OneBody](https://github.com/seven1m/onebody) ⚠️
 
 Web-based social networking, email list, online directory, and lightweight document management software for churches

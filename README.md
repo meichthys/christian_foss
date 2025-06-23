@@ -6,8 +6,7 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 
 > "Freely you have received; freely give." - Matthew 10:8b
 
-<img src="https://copy.church/badges/sj_alt_pde.svg" height="100px">
-
+[<img src="https://copy.church/badges/sj_alt_pde.svg" height="100px">](https://copy.church/)
 
 ## Key
 
@@ -973,4 +972,6 @@ Contributions are highly encouraged. Please see the [CONTRIBUTING](contributing.
 
 Thank you to [@mattrob33](https://github.com/mattrob33) for providing a great starting point for this project with [christian-projects](https://github.com/mattrob33/christian-projects).
 
-## 🗒️ License: [MIT](LICENSE)
+## 🗒️ License: None
+
+This project is freely given and dedicated to the public domain. (https://copy.church/free)

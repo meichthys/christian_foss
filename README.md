@@ -395,6 +395,17 @@ A free church database network application
 
 ---
 
+### [Colabor](https://github.com/gracious-tech/colabor) [🌐](https://colabor.ing/)
+
+A fundraising platform for Christian ministry.
+
+<img src="https://raw.githubusercontent.com/gracious-tech/colabor/refs/heads/main/branding/logo.svg" height="100px">
+
+
+![Last Commit](https://badgen.net/github/last-commit/gracious-tech/colabor) ![License](https://badgen.net/github/license/gracious-tech/colabor) ![Stars](https://badgen.net/github/stars/gracious-tech/colabor) ![Release](https://badgen.net/github/release/gracious-tech/colabor) ![Contributors](https://badgen.net/github/contributors/gracious-tech/colabor) ![Open Issues](https://badgen.net/github/open-issues/gracious-tech/colabor)
+
+---
+
 ### [Compendium](https://github.com/reformed-standards/compendium) [📑 🌐](https://reformedstandards.com/)
 
 Collection of reformed documents, such as confessions and catechisms

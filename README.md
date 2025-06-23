@@ -391,7 +391,7 @@ An OpenSource CRM System Built for Churches
 
 A free church database network application
 
-![SourceForge Last Commit](https://img.shields.io/sourceforge/last-commit/projects/churchinfo) ![License](https://badgen.net/github/license/projects/churchinfo) ![Stars](https://badgen.net/github/stars/projects/churchinfo) ![Release](https://badgen.net/github/release/projects/churchinfo) ![Contributors](https://badgen.net/github/contributors/projects/churchinfo) ![Open Issues](https://badgen.net/github/open-issues/projects/churchinfo)
+![SourceForge Last Commit](https://badgen.net/github/last-commit/ChurchInfo/ChurchInfo) ![License](https://badgen.net/github/license/churchinfo/churchinfo) ![Stars](https://badgen.net/github/stars/ChurchInfo/ChurchInfo) ![Release](https://badgen.net/github/release/churchinfo/churchinfo) ![Contributors](https://badgen.net/github/contributors/churchinfo/churchinfo) ![Open Issues](https://badgen.net/github/open-issues/churchinfo/churchinfo)
 
 ---
 
@@ -400,7 +400,6 @@ A free church database network application
 A fundraising platform for Christian ministry.
 
 <img src="https://raw.githubusercontent.com/gracious-tech/colabor/refs/heads/main/branding/logo.svg" height="100px">
-
 
 ![Last Commit](https://badgen.net/github/last-commit/gracious-tech/colabor) ![License](https://badgen.net/github/license/gracious-tech/colabor) ![Stars](https://badgen.net/github/stars/gracious-tech/colabor) ![Release](https://badgen.net/github/release/gracious-tech/colabor) ![Contributors](https://badgen.net/github/contributors/gracious-tech/colabor) ![Open Issues](https://badgen.net/github/open-issues/gracious-tech/colabor)
 

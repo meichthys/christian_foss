@@ -827,7 +827,7 @@ iOS/Android App for STEP Bible
 
 ---
 
-### [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases)
+### [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases) ⚠️
 
 Application that displays verse text on screen when audio verse reference is spoken
 

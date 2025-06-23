@@ -82,13 +82,23 @@ Discord bot to submit prayer requests for the community to pray for
 
 ---
 
-### [B1App](https://github.com/ChurchApps/B1App) [🌐](https://b1.church/) [🌐](https://github.com/ChurchApps/B1App/releases)
+### [B1App](https://github.com/ChurchApps/B1App) [🌐](https://b1.church/)
 
 Public facing output of the church website builder
 
 <img src="https://github.com/ChurchApps/B1App/blob/main/public/images/logo.png?raw=true" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/ChurchApps/B1App) ![License](https://badgen.net/github/license/ChurchApps/B1App) ![Stars](https://badgen.net/github/stars/ChurchApps/B1App) ![Release](https://badgen.net/github/release/ChurchApps/B1App) ![Contributors](https://badgen.net/github/contributors/ChurchApps/B1App) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/B1App)
+
+---
+
+### [B1 Mobile App](https://github.com/ChurchApps/B1Mobile) [🤖](https://play.google.com/store/apps/details?id=church.b1.mobile&hl=en-US)/[🍎](https://apps.apple.com/us/app/b1-church/id1610587256)
+
+ReactNative mobile application for B1.church
+
+<img src="https://github.com/ChurchApps/B1Mobile/raw/refs/heads/main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ChurchApps/B1Mobile) ![License](https://badgen.net/github/license/ChurchApps/B1Mobile) ![Stars](https://badgen.net/github/stars/ChurchApps/B1Mobile) ![Release](https://badgen.net/github/release/ChurchApps/B1Mobile) ![Contributors](https://badgen.net/github/contributors/ChurchApps/B1Mobile) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/B1Mobile)
 
 ---
 

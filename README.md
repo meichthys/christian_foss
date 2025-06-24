@@ -16,6 +16,7 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
 ⚙️ = API/Framework
 📑 = Document
+🌟 = This project is recommended (high quality, actively maintained, best in class, etc.)
 🏗️ = This project may not be finished or in a usable state
 ⚠️ = This project is abandoned and/or not maintained
 TIP: To filter projects by a specific key in this list, copy the key (emoji) and paste it into the heading filter at the top right of this github readme.
@@ -27,7 +28,7 @@ TIP: To filter projects by a specific key in this list, copy the key (emoji) and
 
 ---
 
-### [abibliadigital](https://github.com/omarciovsena/abibliadigital) [🌐](http://www.abibliadigital.com.br/) ⚙️
+### 🌟 [abibliadigital](https://github.com/omarciovsena/abibliadigital) [🌐](http://www.abibliadigital.com.br/) ⚙️
 
 RESTful API for Bible
 
@@ -37,7 +38,7 @@ RESTful API for Bible
 
 ---
 
-### [AndBible](https://github.com/AndBible/and-bible) [🌐](https://andbible.org/) [🤖](https://play.google.com/store/apps/details?id=net.bible.android.activity)
+### 🌟 [AndBible](https://github.com/AndBible/and-bible) [🌐](https://andbible.org/) [🤖](https://play.google.com/store/apps/details?id=net.bible.android.activity)
 
 Powerful offline Bible Study tool for Android
 
@@ -81,7 +82,7 @@ Discord bot to submit prayer requests for the community to pray for
 
 ---
 
-### [B1App](https://github.com/ChurchApps/B1App) [🌐](https://b1.church/)
+### 🌟 [B1App](https://github.com/ChurchApps/B1App) [🌐](https://b1.church/)
 
 Public facing output of the church website builder
 
@@ -91,7 +92,7 @@ Public facing output of the church website builder
 
 ---
 
-### [B1 Mobile App](https://github.com/ChurchApps/B1Mobile) [🤖](https://play.google.com/store/apps/details?id=church.b1.mobile&hl=en-US)/[🍎](https://apps.apple.com/us/app/b1-church/id1610587256)
+### 🌟 [B1 Mobile App](https://github.com/ChurchApps/B1Mobile) [🤖](https://play.google.com/store/apps/details?id=church.b1.mobile&hl=en-US)/[🍎](https://apps.apple.com/us/app/b1-church/id1610587256)
 
 ReactNative mobile application for B1.church
 
@@ -101,7 +102,7 @@ ReactNative mobile application for B1.church
 
 ---
 
-### [Believers Sword](https://github.com/Bible-Projects/believers-sword-next) [🌐](https://www.believersword.com/) [🪟](https://www.believersword.com/)
+### 🌟 [Believers Sword](https://github.com/Bible-Projects/believers-sword-next) [🌐](https://www.believersword.com/) [🪟](https://www.believersword.com/)
 
 Simple application that helps you study bible with extra features.
 
@@ -260,7 +261,7 @@ A Bible server written in Rust using Actix Web and Diesel
 
 ---
 
-### [BibleBot](https://gitlab.com/kerygmadigital/biblebot/BibleBot) ⚙️
+### 🌟 [BibleBot](https://gitlab.com/kerygmadigital/biblebot/BibleBot) ⚙️
 
 ✝️ Scripture from your Discord client to your heart.
 
@@ -280,7 +281,7 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 
 ---
 
-### [BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) ⚙️
+### 🌟 [BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) ⚙️
 
 Converter written in Java to convert between different Bible program formats
 
@@ -308,7 +309,7 @@ Bible multi languages for Terminal. Easy to use with quick searches, parables, a
 
 ---
 
-### [BibleNotify](https://github.com/BibleNotify/BibleNotify) [🤖](https://github.com/BibleNotify/BibleNotify/releases) [🪟/🍏/🖥️](https://github.com/BibleNotify/BibleNotifyDesktop/releases)
+### 🌟 [BibleNotify](https://github.com/BibleNotify/BibleNotify) [🤖](https://github.com/BibleNotify/BibleNotify/releases) [🪟/🍏/🖥️](https://github.com/BibleNotify/BibleNotifyDesktop/releases)
 
 Offline, privacy-friendly daily Bible verse notification app
 
@@ -328,7 +329,7 @@ Multicast shared co-navigation library for Bible programs
 
 ---
 
-### [BibleTime](https://github.com/bibletime/bibletime) [🌐](https://bibletime.info/) [🖥️](https://github.com/bibletime/bibletime/releases)
+### 🌟 [BibleTime](https://github.com/bibletime/bibletime) [🌐](https://bibletime.info/) [🪟/🍏/🖥️](https://github.com/bibletime/bibletime/releases)
 
 Powerful cross platform Bible study tool
 
@@ -376,7 +377,7 @@ App supporting churches to use digital capabilities for their gatherings and coo
 
 ---
 
-### [ChumsApp](https://github.com/ChurchApps/ChumsApp) [🌐](https://chums.org/) [🌐](https://github.com/ChurchApps/ChumsApp/releases)
+### 🌟 [ChumsApp](https://github.com/ChurchApps/ChumsApp) [🌐](https://chums.org/) [🌐](https://github.com/ChurchApps/ChumsApp/releases)
 
 CHUrch Management Software
 
@@ -386,7 +387,7 @@ CHUrch Management Software
 
 ---
 
-### [ChurchCRM](https://github.com/ChurchCRM/CRM) [🌐](https://churchcrm.io/)
+### 🌟 [ChurchCRM](https://github.com/ChurchCRM/CRM) [🌐](https://churchcrm.io/)
 
 An OpenSource CRM System Built for Churches
 
@@ -404,7 +405,7 @@ A free church database network application
 
 ---
 
-### [Colabor](https://github.com/gracious-tech/colabor) [🌐](https://colabor.ing/)
+### 🌟 [Colabor](https://github.com/gracious-tech/colabor) [🌐](https://colabor.ing/)
 
 A fundraising platform for Christian ministry.
 
@@ -434,7 +435,7 @@ Simplified, web-based church presentation system.
 
 ---
 
-### [Dauf](https://gitlab.com/dauf-l/dauf-app) [🌐](https://danielblandes.com/portfolio/item/dauf/)
+### 🌟 [Dauf](https://gitlab.com/dauf-l/dauf-app) [🌐](https://danielblandes.com/portfolio/item/dauf/)
 
 Are you tired of struggling to find a reliable software solution to display Scripture effectively on the big screen at your church? Look no further than Dauf - the innovative app designed to revolutionize your sermon engagement experience.
 
@@ -486,7 +487,7 @@ A timeline of the English Bible
 
 ---
 
-### [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) [🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ChurchApps/FreeShow/releases)
+### 🌟 [Ezra Bible App](https://github.com/ezra-bible-app/ezra-bible-app) [🌐](https://ezrabibleapp.net/) [🖥️ 🤖](https://github.com/ChurchApps/FreeShow/releases)
 
 Modern and user-friendly Bible app for desktops and tablets focussing on topical study
 
@@ -500,7 +501,7 @@ Modern and user-friendly Bible app for desktops and tablets focussing on topical
 
 ---
 
-### [fetch](https://github.com/gracious-tech/fetch) [⚙️](https://fetch.bible/)
+### 🌟 [fetch](https://github.com/gracious-tech/fetch) [⚙️](https://fetch.bible/)
 
 Digital access to numerous Bible translations
 
@@ -510,7 +511,7 @@ Digital access to numerous Bible translations
 
 ---
 
-### [FreeShow](https://github.com/ChurchApps/FreeShow) [🌐](https://freeshow.app/) [🖥️](https://github.com/ChurchApps/FreeShow/releases)
+### 🌟 [FreeShow](https://github.com/ChurchApps/FreeShow) [🌐](https://freeshow.app/) [🖥️](https://github.com/ChurchApps/FreeShow/releases)
 
 A free and open-source, user-friendly presenter software
 
@@ -590,7 +591,7 @@ Web-based tool which helps churches keep track of people, families, groups, atte
 
 ---
 
-### [LessonsApp](https://github.com/ChurchApps/LessonsApp) [🌐](https://lessons-app-beryl.vercel.app/)
+### 🌟 [LessonsApp](https://github.com/ChurchApps/LessonsApp) [🌐](https://lessons-app-beryl.vercel.app/)
 
 Front end for viewing and subscribing to lessons
 
@@ -600,7 +601,7 @@ Front end for viewing and subscribing to lessons
 
 ---
 
-### [level](https://github.com/hiscoder-com/level) [🌐](https://level.bible/)
+### 🌟 [level](https://github.com/hiscoder-com/level) [🌐](https://level.bible/)
 
 App to translate Scripture step by step
 
@@ -681,7 +682,17 @@ Open-source, cross platform Bible app written in C# MAUI for mobile and PC, and 
 
 ---
 
-### [OpenHymnal](http://openhymnal.org/) [📑 🌐](http://openhymnal.org/)
+### [OpenBible2](https://github.com/SchweGELBin/OpenBible2) [🤖](https://play.google.com/store/apps/details?id=com.schwegelbin.openbible)
+
+OpenBible provides the Bible as a simple Android App
+
+<img src="https://raw.githubusercontent.com/SchweGELBin/OpenBible2/refs/heads/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/SchweGELBin/OpenBible2) ![License](https://badgen.net/github/license/SchweGELBin/OpenBible2) ![Stars](https://badgen.net/github/stars/SchweGELBin/OpenBible2) ![Release](https://badgen.net/github/release/SchweGELBin/OpenBible2) ![Contributors](https://badgen.net/github/contributors/SchweGELBin/OpenBible2) ![Open Issues](https://badgen.net/github/open-issues/SchweGELBin/OpenBible2)
+
+---
+
+### 🌟 [OpenHymnal](http://openhymnal.org/) [📑 🌐](http://openhymnal.org/)
 
 Freely distributable, downloadable database of Christian hymns, spiritual songs, and prelude/postlude music
 
@@ -689,7 +700,7 @@ Freely distributable, downloadable database of Christian hymns, spiritual songs,
 
 ---
 
-### [OpenLP](https://gitlab.com/openlp/openlp) [🌐](https://openlp.org/) [🤖](https://play.google.com/store/apps/details?id=ch.currenttechnology.openlp) [🍎](https://apps.apple.com/us/app/openlp-remote/id1096218725) [🪟 🍏 🖥️](https://openlp.org/#downloads)
+### 🌟 [OpenLP](https://gitlab.com/openlp/openlp) [🌐](https://openlp.org/) [🤖](https://play.google.com/store/apps/details?id=ch.currenttechnology.openlp) [🍎](https://apps.apple.com/us/app/openlp-remote/id1096218725) [🪟 🍏 🖥️](https://openlp.org/#downloads)
 
 Worship presentation software designed to fit how you want to run your service.
 
@@ -711,7 +722,7 @@ Lyric projection and chord charts for church musicians
 
 ---
 
-### [paper](https://github.com/gracious-tech/paper) [🌐](https://prayer.bitbadger.solutions/)
+### 🌟 [paper](https://github.com/gracious-tech/paper) [🌐](https://prayer.bitbadger.solutions/)
 
 Free app for printing Scripture
 
@@ -729,7 +740,7 @@ Platform for users to keep up with the prayer requests/concerns of others
 
 ---
 
-### [PrayerTracker](https://github.com/bit-badger/PrayerTracker) [🌐](https://prayer.bitbadger.solutions/)
+### [PrayerTracker](https://git.bitbadger.solutions/bit-badger/PrayerTracker) [🌐](https://prayer.bitbadger.solutions/)
 
 Prayer request tracking website
 
@@ -757,7 +768,7 @@ Projection software designed around the needs of the modern, multimedia rich chu
 
 ---
 
-### [Remember Me](https://gitlab.com/remem-me) [🌐](https://www.remem.me/) [🤖](https://play.google.com/store/apps/details?id=me.remem.app) [🍎](https://apps.apple.com/app/id1600128209)
+### 🌟 [Remember Me](https://gitlab.com/remem-me) [🌐](https://www.remem.me/) [🤖](https://play.google.com/store/apps/details?id=me.remem.app) [🍎](https://apps.apple.com/app/id1600128209)
 
 The free, fun, and effective way to memorize Bible verses! No ads, no restrictions.
 
@@ -789,7 +800,7 @@ Powerful, yet easy to use Bible/Lyric projection software
 
 ---
 
-### [Stello](https://github.com/gracious-tech/stello) [🌐](https://stello.news/)
+### 🌟 [Stello](https://github.com/gracious-tech/stello) [🌐](https://stello.news/)
 
 Send secure newsletters
 
@@ -799,7 +810,7 @@ Send secure newsletters
 
 ---
 
-### [step](https://github.com/STEPBible/step) [🌐](https://www.stepbible.org/)
+### 🌟 [step](https://github.com/STEPBible/step) [🌐](https://www.stepbible.org/)
 
 STEP :: Scripture Tools for Every Person
 
@@ -958,7 +969,7 @@ iOS app for reading and searching the WCF, WLC, and WSC
 
 ---
 
-### [Xiphos](https://github.com/crosswire/xiphos) [🖥️](https://xiphos.org/download/)
+### 🌟 [Xiphos](https://github.com/crosswire/xiphos) [🖥️/🪟](https://xiphos.org/download/)
 
 Bible study tool written for Linux, UNIX, and Windows
 

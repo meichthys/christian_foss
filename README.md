@@ -906,6 +906,16 @@ A tool for Typing through the Bible. It keeps track of what verses and books of 
 
 ---
 
+### [UniqueBible](https://github.com/eliranwong/UniqueBible) [🪟/🍏/🖥️/🤖/🍎](https://www.uniquebible.app/)
+
+A cross-platform bible application, integrated with high-quality resources and amazing features, running offline
+
+<img src="https://github.com/eliranwong/UniqueBible/blob/main/Introduction.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/eliranwong/UniqueBible) ![License](https://badgen.net/github/license/eliranwong/UniqueBible) ![Stars](https://badgen.net/github/stars/eliranwong/UniqueBible) ![Release](https://badgen.net/github/release/eliranwong/UniqueBible) ![Contributors](https://badgen.net/github/contributors/eliranwong/UniqueBible) ![Open Issues](https://badgen.net/github/open-issues/eliranwong/UniqueBible)
+
+---
+
 ## V
 
 ---

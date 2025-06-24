@@ -6,7 +6,7 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 
 > "Freely you have received; freely give." - Matthew 10:8b
 
-[<img src="https://copy.church/badges/sj_alt_pde.svg" height="100px">](https://copy.church/)
+[<img src="https://copy.church/badges/sj_alt_pde.svg" alt="copy.church logo" height="100px">](https://copy.church/)
 
 ## Key
 
@@ -455,6 +455,16 @@ Set of scripts to explore the Bible through cross references
 ---
 
 ## E
+
+---
+
+### [elisha](https://github.com/31Carlton7/elisha) [🤖/🍎](https://31carlton7.github.io/elisha)
+
+An Offline Bible & Church App for iOS & Android.
+
+<img src="https://github.com/31Carlton7/elisha/blob/master/assets/app_icons/app_icon.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/31Carlton7/elisha) ![License](https://badgen.net/github/license/31Carlton7/elisha) ![Stars](https://badgen.net/github/stars/31Carlton7/elisha) ![Release](https://badgen.net/github/release/31Carlton7/elisha) ![Contributors](https://badgen.net/github/contributors/31Carlton7/elisha) ![Open Issues](https://badgen.net/github/open-issues/31Carlton7/elisha)
 
 ---
 

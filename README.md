@@ -692,6 +692,15 @@ OpenBible provides the Bible as a simple Android App
 
 ---
 
+### [OpenCheckIn](https://github.com/ezst036/OpenCheckIn) 🌐
+
+Check in system for small churches
+
+<img src="https://github.com/ezst036/OpenCheckIn/blob/main/media/default.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ezst036/OpenCheckIn) ![License](https://badgen.net/github/license/ezst036/OpenCheckIn) ![Stars](https://badgen.net/github/stars/ezst036/OpenCheckIn) ![Release](https://badgen.net/github/release/ezst036/OpenCheckIn) ![Contributors](https://badgen.net/github/contributors/ezst036/OpenCheckIn) ![Open Issues](https://badgen.net/github/open-issues/ezst036/OpenCheckIn)
+
+---
 ### 🌟 [OpenHymnal](http://openhymnal.org/) [📑 🌐](http://openhymnal.org/)
 
 Freely distributable, downloadable database of Christian hymns, spiritual songs, and prelude/postlude music

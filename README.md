@@ -387,6 +387,16 @@ CHUrch Management Software
 
 ---
 
+### 🌟 [church](https://github.com/meichthys/church) 🌐
+
+A church management app based on the Frappe framework.
+
+<img src="https://github.com/meichthys/church/blob/develop/screenshots/Onboarding.png?raw=true" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/meichthys/church) ![License](https://badgen.net/github/license/meichthys/church) ![Stars](https://badgen.net/github/stars/meichthys/church) ![Release](https://badgen.net/github/release/meichthys/church) ![Contributors](https://badgen.net/github/contributors/meichthys/church) ![Open Issues](https://badgen.net/github/open-issues/meichthys/church)
+
+---
+
 ### 🌟 [ChurchCRM](https://github.com/ChurchCRM/CRM) [🌐](https://churchcrm.io/)
 
 An OpenSource CRM System Built for Churches

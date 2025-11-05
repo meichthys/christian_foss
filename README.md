@@ -397,6 +397,16 @@ A church management app based on the Frappe framework.
 
 ---
 
+### 🌟 [church](https://github.com/bishopm/church) 🌐
+
+ Web-based church admin software, built on Laravel and Filament
+
+<img src="https://raw.githubusercontent.com/bishopm/church/refs/heads/main/src/Resources/assets/images/logo.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/bishopm/church) ![License](https://badgen.net/github/license/bishopm/church) ![Stars](https://badgen.net/github/stars/bishopm/church) ![Release](https://badgen.net/github/release/bishopm/church) ![Contributors](https://badgen.net/github/contributors/bishopm/church) ![Open Issues](https://badgen.net/github/open-issues/bishopm/church)
+
+---
+
 ### 🌟 [ChurchCRM](https://github.com/ChurchCRM/CRM) [🌐](https://churchcrm.io/)
 
 An OpenSource CRM System Built for Churches

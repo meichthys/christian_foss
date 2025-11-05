@@ -68,7 +68,7 @@ Open Source Bible for Android
 
 ---
 
-### [apostello](https://github.com/monty5811/apostello/) ⚠️ [🌐](https://apostello.readthedocs.io/en/latest/)
+### ⚠️ [apostello](https://github.com/monty5811/apostello/) [🌐](https://apostello.readthedocs.io/en/latest/)
 
 SMS communication software for your church
 
@@ -205,7 +205,7 @@ Small library that returns cross-references for a selected verse or chapter
 
 ---
 
-### [bible-cross-reference-json](https://github.com/josephilipraja/bible-cross-reference-json/) ⚠️ ⚙️
+### ⚠️ [bible-cross-reference-json](https://github.com/josephilipraja/bible-cross-reference-json/) ⚙️
 
 A total of 31,102 verses in 32 JSON files, cross referenced to as many as possible
 
@@ -223,7 +223,7 @@ Bible Genealogy Project
 
 ---
 
-### [Bible-Geocoding-Data](https://github.com/openbibleinfo/Bible-Geocoding-Data) ⚠️ ⚙️
+### ⚠️ [Bible-Geocoding-Data](https://github.com/openbibleinfo/Bible-Geocoding-Data) ⚙️
 
 Geographic data for every place mentioned in the Protestant Bible.
 
@@ -231,7 +231,7 @@ Geographic data for every place mentioned in the Protestant Bible.
 
 ---
 
-### [Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) ⚠️ ⚙️
+### ⚠️ [Bible-Passage-Reference-Parser](https://github.com/openbibleinfo/Bible-Passage-Reference-Parser) ⚙️
 
 Coffeescript to identify and understand Bible references like "John 3:16."
 
@@ -239,7 +239,7 @@ Coffeescript to identify and understand Bible references like "John 3:16."
 
 ---
 
-### [Bible-Query-Parser](https://github.com/openbibleinfo/Bible-Query-Parser) ⚠️ ⚙️
+### ⚠️ [Bible-Query-Parser](https://github.com/openbibleinfo/Bible-Query-Parser) ⚙️
 
 Javascript to convert Bible references from OSIS to human-readable formats and Paratext.
 
@@ -247,7 +247,7 @@ Javascript to convert Bible references from OSIS to human-readable formats and P
 
 ---
 
-### [Bible-Reference-Formatter](https://github.com/openbibleinfo/Bible-Reference-Formatter) ⚠️ ⚙️
+### ⚠️ [Bible-Reference-Formatter](https://github.com/openbibleinfo/Bible-Reference-Formatter) ⚙️
 
 Javascript to convert Bible references from OSIS to human-readable formats and Paratext.
 
@@ -379,7 +379,7 @@ Cordova Frontend for The SWORD Project
 
 ---
 
-### [cedarserver](https://github.com/cedarproject/cedarserver) ⚠️
+### ⚠️ [cedarserver](https://github.com/cedarproject/cedarserver)
 
 Show control system that handles multimedia, presentations, song lyrics, and lighting, all controlled simultaneously over a network.
 
@@ -473,7 +473,15 @@ Collection of reformed documents, such as confessions and catechisms
 
 ---
 
-### [CPresent](https://github.com/jaitaiwan/CPresent) ⚠️
+### ⚠️ [connexion](https://github.com/bishopm/connexion) 🌐
+
+Laravel-based church membership and website administration
+
+![Last Commit](https://badgen.net/github/last-commit/bishopm/connexion) ![License](https://badgen.net/github/license/bishopm/connexion) ![Stars](https://badgen.net/github/stars/bishopm/connexion) ![Release](https://badgen.net/github/release/bishopm/connexion) ![Contributors](https://badgen.net/github/contributors/bishopm/connexion) ![Open Issues](https://badgen.net/github/open-issues/bishopm/connexion)
+
+---
+
+### ⚠️ [CPresent](https://github.com/jaitaiwan/CPresent)
 
 Simplified, web-based church presentation system.
 
@@ -495,7 +503,7 @@ Are you tired of struggling to find a reliable software solution to display Scri
 
 ---
 
-### [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer) ⚠️
+### ⚠️ [doubting-thomas-explorer](https://github.com/owenauch/doubting-thomas-explorer)
 
 Set of scripts to explore the Bible through cross references
 
@@ -704,7 +712,7 @@ Open Scriptures Hebrew Bible
 
 ---
 
-### [OneBody](https://github.com/seven1m/onebody) ⚠️
+### ⚠️ [OneBody](https://github.com/seven1m/onebody)
 
 Web-based social networking, email list, online directory, and lightweight document management software for churches
 
@@ -810,7 +818,7 @@ Free app for printing Scripture
 
 ---
 
-### [prayerKeeper](https://github.com/ivanwhuang/prayerKeeper) ⚠️
+### ⚠️ [prayerKeeper](https://github.com/ivanwhuang/prayerKeeper)
 
 Platform for users to keep up with the prayer requests/concerns of others
 
@@ -935,7 +943,7 @@ iOS/Android App for STEP Bible
 
 ---
 
-### [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases) ⚠️
+### ⚠️ [Sword Drill](https://github.com/meichthys/sword_drill) [🪟 🍏](https://github.com/meichthys/sword_drill/releases)
 
 Application that displays verse text on screen when audio verse reference is spoken
 
@@ -1043,7 +1051,7 @@ An innovative web-based platform designed specifically for churches to simplify 
 
 ---
 
-### [Westminster Standards](https://github.com/mattrob33/westminster-ios) ⚠️ 🍎
+### ⚠️ [Westminster Standards](https://github.com/mattrob33/westminster-ios) 🍎
 
 iOS app for reading and searching the WCF, WLC, and WSC
 

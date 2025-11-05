@@ -711,6 +711,15 @@ Check in system for small churches
 ![Last Commit](https://badgen.net/github/last-commit/ezst036/OpenCheckIn) ![License](https://badgen.net/github/license/ezst036/OpenCheckIn) ![Stars](https://badgen.net/github/stars/ezst036/OpenCheckIn) ![Release](https://badgen.net/github/release/ezst036/OpenCheckIn) ![Contributors](https://badgen.net/github/contributors/ezst036/OpenCheckIn) ![Open Issues](https://badgen.net/github/open-issues/ezst036/OpenCheckIn)
 
 ---
+
+### 🌟 [open-hymnal-json](https://github.com/h1rdr3v2/open-hymnal-json) ⚙️
+
+A community-driven collection of church hymns in JSON format for developers and digital worship applications
+
+![Last Commit](https://badgen.net/github/last-commit/h1rdr3v2/open-hymnal-json) ![License](https://badgen.net/github/license/h1rdr3v2/open-hymnal-json) ![Stars](https://badgen.net/github/stars/h1rdr3v2/open-hymnal-json) ![Release](https://badgen.net/github/release/h1rdr3v2/open-hymnal-json) ![Contributors](https://badgen.net/github/contributors/h1rdr3v2/open-hymnal-json) ![Open Issues](https://badgen.net/github/open-issues/h1rdr3v2/open-hymnal-json)
+
+---
+
 ### 🌟 [OpenHymnal](http://openhymnal.org/) [📑 🌐](http://openhymnal.org/)
 
 Freely distributable, downloadable database of Christian hymns, spiritual songs, and prelude/postlude music

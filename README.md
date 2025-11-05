@@ -149,11 +149,21 @@ You can change the Bible verse by pressing spacebar or by left clicking on the p
 
 ---
 
-### [bible_api](https://github.com/seven1m/bible_api) [🌐](https://bible-api.com/) ⚙️
+### 🌟 [bible_api](https://github.com/seven1m/bible_api) [🌐](https://bible-api.com/) ⚙️
 
 Ruby web app that serves JSON API for open and public domain bibles
 
 ![Last Commit](https://badgen.net/github/last-commit/seven1m/bible_api) ![License](https://badgen.net/github/license/seven1m/bible_api) ![Stars](https://badgen.net/github/stars/seven1m/bible_api) ![Release](https://badgen.net/github/release/seven1m/bible_api) ![Contributors](https://badgen.net/github/contributors/seven1m/bible_api) ![Open Issues](https://badgen.net/github/open-issues/seven1m/bible_api)
+
+---
+
+### 🌟 [bible-api](https://github.com/HelloAOLab/bible-api) [🌐](https://bible.helloao.org/) ⚙️
+
+The Bible as an easy-to-use API.
+
+<img src="https://raw.githubusercontent.com/HelloAOLab/bible-api/refs/heads/main/docs/.vuepress/public/favicon.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/HelloAOLab/bible-api) ![License](https://badgen.net/github/license/HelloAOLab/bible-api) ![Stars](https://badgen.net/github/stars/HelloAOLab/bible-api) ![Release](https://badgen.net/github/release/HelloAOLab/bible-api) ![Contributors](https://badgen.net/github/contributors/HelloAOLab/bible-api) ![Open Issues](https://badgen.net/github/open-issues/HelloAOLab/bible-api)
 
 ---
 
@@ -837,6 +847,16 @@ The free, fun, and effective way to memorize Bible verses! No ads, no restrictio
 ---
 
 ## S
+
+---
+
+### 🌟 [seed-bible](https://github.com/HelloAOLab/seed-bible) [🌐](https://ao.bot)
+
+A platform for small gatherings in scripture.
+
+<img src="https://bootstrap.ao.bot/images/ao-bot-default-logo.jpg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/HelloAOLab/seed-bible) ![License](https://badgen.net/github/license/HelloAOLab/seed-bible) ![Stars](https://badgen.net/github/stars/HelloAOLab/seed-bible) ![Release](https://badgen.net/github/release/HelloAOLab/seed-bible) ![Contributors](https://badgen.net/github/contributors/HelloAOLab/seed-bible) ![Open Issues](https://badgen.net/github/open-issues/HelloAOLab/seed-bible)
 
 ---
 

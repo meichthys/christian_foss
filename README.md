@@ -281,6 +281,16 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 
 ---
 
+### [BiblePro](https://github.com/9cb14c1ec0/BiblePro) [🪟/🍏/🖥️/🤖](https://github.com/9cb14c1ec0/BiblePro/releases)
+
+Cross platform Bible study app written in Kotlin
+
+<img src="https://raw.githubusercontent.com/9cb14c1ec0/BiblePro/refs/heads/master/src/androidMain/res/mipmap-xxhdpi/ic_launcher.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/9cb14c1ec0/BiblePro) ![License](https://badgen.net/github/license/9cb14c1ec0/BiblePro) ![Stars](https://badgen.net/github/stars/9cb14c1ec0/BiblePro) ![Release](https://badgen.net/github/release/9cb14c1ec0/BiblePro) ![Contributors](https://badgen.net/github/contributors/9cb14c1ec0/BiblePro) ![Open Issues](https://badgen.net/github/open-issues/9cb14c1ec0/BiblePro)
+
+---
+
 ### 🌟 [BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) ⚙️
 
 Converter written in Java to convert between different Bible program formats

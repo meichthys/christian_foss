@@ -722,6 +722,16 @@ Check in system for small churches
 
 ---
 
+### [openfaith](https://github.com/FaithBase-AI/openfaith) [🌐](https://openfaith.app/)
+
+An open spec for the future of Church Software.
+
+<img src="https://avatars.githubusercontent.com/u/212416796?s=200&v=4" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/FaithBase-AI/openfaith) ![License](https://badgen.net/github/license/FaithBase-AI/openfaith) ![Stars](https://badgen.net/github/stars/FaithBase-AI/openfaith) ![Release](https://badgen.net/github/release/FaithBase-AI/openfaith) ![Contributors](https://badgen.net/github/contributors/FaithBase-AI/openfaith) ![Open Issues](https://badgen.net/github/open-issues/FaithBase-AI/openfaith)
+
+---
+
 ### 🌟 [open-hymnal-json](https://github.com/h1rdr3v2/open-hymnal-json) ⚙️
 
 A community-driven collection of church hymns in JSON format for developers and digital worship applications

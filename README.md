@@ -399,6 +399,14 @@ App supporting churches to use digital capabilities for their gatherings and coo
 
 ---
 
+### [Chancel](https://github.com/jdmldm1/chancel) [🌐](https://chancel.study)
+
+Online transformative Bible study through collaborative group sessions, verse-by-verse exploration, and community discussion. 
+
+![Last Commit](https://badgen.net/github/last-commit/jdmldm1/chancel) ![License](https://badgen.net/github/license/jdmldm1/chancel) ![Stars](https://badgen.net/github/stars/jdmldm1/chancel) ![Release](https://badgen.net/github/release/jdmldm1/chancel) ![Contributors](https://badgen.net/github/contributors/jdmldm1/chancel) ![Open Issues](https://badgen.net/github/open-issues/jdmldm1/chancel)
+
+---
+
 ### [christian_foss](https://github.com/meichthys/christian_foss) (This Project!) [🌐]([https://github.com/meichthys/christian_foss)
 
 ✝️ Free and Open Source Christian Software Projects

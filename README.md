@@ -28,6 +28,16 @@ TIP: To filter projects by a specific key in this list, copy the key (emoji) and
 
 ---
 
+### [1695 Baptist Catechism](https://gitlab.com/svrbc/baptistcatechism.org) [🌐](https://baptistcatechism.org/)
+
+Website for the "1695 Baptist Catechism", often known as "Keach's Catechism"
+
+<img src="https://gitlab.com/svrbc/baptistcatechism.org/-/raw/master/public/favicon.png?ref_type=heads" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/baptistcatechism.org) ![License](https://badgen.net/gitlab/license/svrbc/baptistcatechism.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/baptistcatechism.org) ![Release](https://badgen.net/gitlab/release/svrbc/baptistcatechism.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/baptistcatechism.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/baptistcatechism.org)
+
+---
+
 ### [1689 Baptist Confession](https://gitlab.com/svrbc/baptistconfession.org) [🌐](https://baptistconfession.org/)
 
 Website for the "1689 Baptist Confession", also known as the "Second London Baptist Confession of Faith"

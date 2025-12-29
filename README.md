@@ -72,7 +72,7 @@ Open Source Bible for Android
 
 Website for "An Orthodox Catechism" from Hercules Collins, the Baptist edition of the Heidelberg Catechism
 
-<img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png" height="100px"> <img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
+<img src="[https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png](https://gitlab.com/svrbc/anorthodoxcatechism.org/-/raw/master/public/favicon.ico?ref_type=heads)" height="100px">
 
 ![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/anorthodoxcatechism.org) ![License](https://badgen.net/gitlab/license/svrbc/anorthodoxcatechism.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/anorthodoxcatechism.org) ![Release](https://badgen.net/gitlab/release/svrbc/anorthodoxcatechism.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/anorthodoxcatechism.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/anorthodoxcatechism.org)
 

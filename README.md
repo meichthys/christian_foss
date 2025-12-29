@@ -68,7 +68,7 @@ Open Source Bible for Android
 
 ---
 
-### [anorthodoxcatechism](https://gitlab.com/svrbc/anorthodoxcatechism.org) [🌐](https://anorthodoxcatechism.org/)
+### [An Orthodox Catechism](https://gitlab.com/svrbc/anorthodoxcatechism.org) [🌐](https://anorthodoxcatechism.org/)
 
 Website for "An Orthodox Catechism" from Hercules Collins, the Baptist edition of the Heidelberg Catechism
 

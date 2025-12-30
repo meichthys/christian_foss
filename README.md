@@ -22,7 +22,31 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 TIP: To filter projects by a specific key in this list, copy the key (emoji) and paste it into the heading filter at the top right of this github readme.
 ```
 
-## [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+## [0-9](#0-9) [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
+
+## 0-9
+
+---
+
+### [1689 Baptist Confession](https://gitlab.com/svrbc/baptistconfession.org) [🌐](https://baptistconfession.org/)
+
+Website for the "1689 Baptist Confession", also known as the "Second London Baptist Confession of Faith"
+
+<img src="https://gitlab.com/svrbc/baptistconfession.org/-/raw/master/public/favicon.ico?ref_type=heads" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/baptistconfession.org) ![License](https://badgen.net/gitlab/license/svrbc/baptistconfession.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/baptistconfession.org) ![Release](https://badgen.net/gitlab/release/svrbc/baptistconfession.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/baptistconfession.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/baptistconfession.org)
+
+---
+
+### [1695 Baptist Catechism](https://gitlab.com/svrbc/baptistcatechism.org) [🌐](https://baptistcatechism.org/)
+
+Website for the "1695 Baptist Catechism", often known as "Keach's Catechism"
+
+<img src="https://gitlab.com/svrbc/baptistcatechism.org/-/raw/master/public/favicon.png?ref_type=heads" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/baptistcatechism.org) ![License](https://badgen.net/gitlab/license/svrbc/baptistcatechism.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/baptistcatechism.org) ![Release](https://badgen.net/gitlab/release/svrbc/baptistcatechism.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/baptistcatechism.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/baptistcatechism.org)
+
+---
 
 ## A
 

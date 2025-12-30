@@ -335,6 +335,16 @@ Python module and CLI app (Formerly BibleHubScrapper) that retrieves verses and 
 
 ---
 
+### [Biblepod](https://gitlab.com/svrbc/biblepod.app) [🌐](https://biblepod.app/)
+
+Daily scripture reading plans podcast generator
+
+<img src="https://cdn18.picryl.com/photo/2019/10/04/an-illuminated-page-of-thegutenberg-bible-dc42a4-640.jpg" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/biblepod.app) ![License](https://badgen.net/gitlab/license/svrbc/biblepod.app) ![Stars](https://badgen.net/gitlab/stars/svrbc/biblepod.app) ![Release](https://badgen.net/gitlab/release/svrbc/biblepod.app) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/biblepod.app) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/biblepod.app)
+
+---
+
 ### [BiblePro](https://github.com/9cb14c1ec0/BiblePro) [🪟/🍏/🖥️/🤖](https://github.com/9cb14c1ec0/BiblePro/releases)
 
 Cross platform Bible study app written in Kotlin

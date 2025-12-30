@@ -68,6 +68,16 @@ Open Source Bible for Android
 
 ---
 
+### [An Orthodox Catechism](https://gitlab.com/svrbc/anorthodoxcatechism.org) [🌐](https://anorthodoxcatechism.org/)
+
+Website for "An Orthodox Catechism" from Hercules Collins, the Baptist edition of the Heidelberg Catechism
+
+<img src="https://gitlab.com/svrbc/anorthodoxcatechism.org/-/raw/master/public/favicon.ico?ref_type=heads" height="100px">
+
+![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/anorthodoxcatechism.org) ![License](https://badgen.net/gitlab/license/svrbc/anorthodoxcatechism.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/anorthodoxcatechism.org) ![Release](https://badgen.net/gitlab/release/svrbc/anorthodoxcatechism.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/anorthodoxcatechism.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/anorthodoxcatechism.org)
+
+---
+
 ### ⚠️ [apostello](https://github.com/monty5811/apostello/) [🌐](https://apostello.readthedocs.io/en/latest/)
 
 SMS communication software for your church

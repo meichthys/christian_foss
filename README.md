@@ -194,7 +194,7 @@ Simple scripture reference lookup tool
 
 ### [Bible in One Scroll](https://github.com/jungrok5/one-scroll-bible) [🌐](https://one-scroll-bible.com/)
 
-The whole Bible's redemptive history (Creation → Restoration) as one mobile scroll that ends in a prayer to receive Christ; every quote links to verbatim official Scripture, in 190+ languages
+The whole Bible's redemptive history (Creation → Restoration) as one mobile scroll
 
 <img src="https://raw.githubusercontent.com/jungrok5/one-scroll-bible/main/icon-512.png" height="100px">
 

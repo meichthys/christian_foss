@@ -192,6 +192,16 @@ Simple scripture reference lookup tool
 
 ---
 
+### [Bible in One Scroll](https://github.com/jungrok5/one-scroll-bible) [🌐](https://one-scroll-bible.com/)
+
+The whole Bible's redemptive history (Creation → Restoration) as one mobile scroll
+
+<img src="https://raw.githubusercontent.com/jungrok5/one-scroll-bible/main/icon-512.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/jungrok5/one-scroll-bible) ![License](https://badgen.net/github/license/jungrok5/one-scroll-bible) ![Stars](https://badgen.net/github/stars/jungrok5/one-scroll-bible) ![Release](https://badgen.net/github/release/jungrok5/one-scroll-bible) ![Contributors](https://badgen.net/github/contributors/jungrok5/one-scroll-bible) ![Open Issues](https://badgen.net/github/open-issues/jungrok5/one-scroll-bible)
+
+---
+
 ### [Bible Verse](https://gitlab.com/robertmermet/bible-verse) ⚙️ [🌐](http://robertmermet.com/projects/bible-verse/)
 
 Displays a selected Bible verse, or verses, from the KJV.

@@ -479,16 +479,6 @@ CHUrch Management Software
 
 ---
 
-### 🌟 [church](https://github.com/meichthys/church) 🌐
-
-A church management app based on the Frappe framework.
-
-<img src="https://github.com/meichthys/church/blob/develop/screenshots/Onboarding.png?raw=true" height="100px">
-
-![Last Commit](https://badgen.net/github/last-commit/meichthys/church) ![License](https://badgen.net/github/license/meichthys/church) ![Stars](https://badgen.net/github/stars/meichthys/church) ![Release](https://badgen.net/github/release/meichthys/church) ![Contributors](https://badgen.net/github/contributors/meichthys/church) ![Open Issues](https://badgen.net/github/open-issues/meichthys/church)
-
----
-
 ### 🌟 [church](https://github.com/bishopm/church) 🌐
 
  Web-based church admin software, built on Laravel and Filament
@@ -514,6 +504,15 @@ An OpenSource CRM System Built for Churches
 A free church database network application
 
 ![SourceForge Last Commit](https://badgen.net/github/last-commit/ChurchInfo/ChurchInfo) ![License](https://badgen.net/github/license/churchinfo/churchinfo) ![Stars](https://badgen.net/github/stars/ChurchInfo/ChurchInfo) ![Release](https://badgen.net/github/release/churchinfo/churchinfo) ![Contributors](https://badgen.net/github/contributors/churchinfo/churchinfo) ![Open Issues](https://badgen.net/github/open-issues/churchinfo/churchinfo)
+
+
+---
+
+### 🌟 [Churchit](https://github.com/meichthys/churchit) 🌐
+
+A comprehensive church management app based on the Frappe framework.
+
+![Last Commit](https://badgen.net/github/last-commit/meichthys/churchit) ![License](https://badgen.net/github/license/meichthys/churchit) ![Stars](https://badgen.net/github/stars/meichthys/churchit) ![Release](https://badgen.net/github/release/meichthys/churchit) ![Contributors](https://badgen.net/github/contributors/meichthys/churchit) ![Open Issues](https://badgen.net/github/open-issues/meichthys/churchit)
 
 ---
 

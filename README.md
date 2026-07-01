@@ -192,6 +192,16 @@ Simple scripture reference lookup tool
 
 ---
 
+### [Bible in One Scroll](https://github.com/jungrok5/one-scroll-bible) [🌐](https://one-scroll-bible.com/)
+
+The whole Bible's redemptive history (Creation → Restoration) as one mobile scroll
+
+<img src="https://raw.githubusercontent.com/jungrok5/one-scroll-bible/main/icon-512.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/jungrok5/one-scroll-bible) ![License](https://badgen.net/github/license/jungrok5/one-scroll-bible) ![Stars](https://badgen.net/github/stars/jungrok5/one-scroll-bible) ![Release](https://badgen.net/github/release/jungrok5/one-scroll-bible) ![Contributors](https://badgen.net/github/contributors/jungrok5/one-scroll-bible) ![Open Issues](https://badgen.net/github/open-issues/jungrok5/one-scroll-bible)
+
+---
+
 ### [Bible Verse](https://gitlab.com/robertmermet/bible-verse) ⚙️ [🌐](http://robertmermet.com/projects/bible-verse/)
 
 Displays a selected Bible verse, or verses, from the KJV.
@@ -943,6 +953,16 @@ The free, fun, and effective way to memorize Bible verses! No ads, no restrictio
 <img src="https://gitlab.com/remem-me/app/-/raw/develop/assets/icon/app.png" height="100px">
 
 ![Last Commit](https://badgen.net/gitlab/last-commit/remem-me/app) ![License](https://badgen.net/gitlab/license/remem-me/app) ![Stars](https://badgen.net/gitlab/stars/remem-me/app) ![Release](https://badgen.net/gitlab/release/remem-me/app) ![Contributors](https://badgen.net/gitlab/contributors/remem-me/app) ![Open Issues](https://badgen.net/gitlab/open-issues/remem-me/app)
+
+---
+
+### [rum1n8](https://github.com/timunrau/rum1n8) [🌐](https://rum1n8.unrau.xyz)
+
+Simple Bible memorization PWA that gives you control of your data, with optional Google Drive/WebDAV sync and self-hosting support.
+
+<img src="https://raw.githubusercontent.com/timunrau/rum1n8/main/public/icons/icon-512x512.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/timunrau/rum1n8) ![License](https://badgen.net/github/license/timunrau/rum1n8) ![Stars](https://badgen.net/github/stars/timunrau/rum1n8) ![Release](https://badgen.net/github/release/timunrau/rum1n8) ![Contributors](https://badgen.net/github/contributors/timunrau/rum1n8) ![Open Issues](https://badgen.net/github/open-issues/timunrau/rum1n8)
 
 ---
 

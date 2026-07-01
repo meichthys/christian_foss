@@ -7,6 +7,7 @@ To add, remove, or change any project on the list, please submit a Pull Request.
     - All projects should be directly related to the Christian faith.
     - Preference is given to software projects, but other 'open source' projects will be considered if the project is under an open source license.
     - Projects should be non-commercial
+    - AI/Agentic projects are allowed, but must be clearly disclosed
 
 ## Pull Request Requirements
 

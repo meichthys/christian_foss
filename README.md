@@ -786,6 +786,14 @@ Open Scriptures Hebrew Bible
 
 ---
 
+### [MyVineOS](https://https://github.com/ThaFuentes/MyVineOS) 🌐
+
+Free & open-source church website and management platform.
+
+![Last Commit](https://badgen.net/github/last-commit/ThaFuentes/MyVineOS) ![License](https://badgen.net/github/license/ThaFuentes/MyVineOS) ![Stars](https://badgen.net/github/stars/ThaFuentes/MyVineOS) ![Release](https://badgen.net/github/release/ThaFuentes/MyVineOS) ![Contributors](https://badgen.net/github/contributors/ThaFuentes/MyVineOS) ![Open Issues](https://badgen.net/github/open-issues/ThaFuentes/MyVineOS)
+
+---
+
 ## N
 
 ---

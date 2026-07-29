@@ -1209,6 +1209,6 @@ Contributions are highly encouraged. Please see the [CONTRIBUTING](contributing.
 
 Thank you to [@mattrob33](https://github.com/mattrob33) for providing a great starting point for this project with [christian-projects](https://github.com/mattrob33/christian-projects).
 
-## 🗒️ License: None
+## 🗒️ License: MIT-0
 
 This project is freely given and dedicated to the public domain. (https://copy.church/free)

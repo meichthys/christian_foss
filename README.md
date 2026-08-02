@@ -751,6 +751,16 @@ App to translate Scripture step by step
 
 ---
 
+### 🌟 [Live Church Captions](https://github.com/Church-Cap/Live-Church-Captions) [🌐](https://www.churchcap.org/) [🪟/🍏/🖥️](https://github.com/Church-Cap/Live-Church-Captions/releases)
+
+Real-time captions for churches, powered by Whisper and local-first by design.
+
+<img src="https://raw.githubusercontent.com/Church-Cap/Live-Church-Captions/main/assets/branding/church-cap-square-light.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/Church-Cap/Live-Church-Captions) ![License](https://badgen.net/github/license/Church-Cap/Live-Church-Captions) ![Stars](https://badgen.net/github/stars/Church-Cap/Live-Church-Captions) ![Release](https://badgen.net/github/release/Church-Cap/Live-Church-Captions) ![Contributors](https://badgen.net/github/contributors/Church-Cap/Live-Church-Captions) ![Open Issues](https://badgen.net/github/open-issues/Church-Cap/Live-Church-Captions)
+
+---
+
 ### [LightNet](https://github.com/LightNetDev/LightNet) [🌐](https://lightnet.community) ⚙️
 
 LightNet makes it easier to run digital media libraries for ministries

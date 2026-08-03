@@ -1,6 +1,6 @@
 # Christian FOSS
 
-This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value.
+This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value. For an overview of the project and the vision behind it, you an view this [video](https://youtu.be/66r3A6EB0Ac).
 
 > "Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God." - Hebrews 13:16
 

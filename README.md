@@ -2,11 +2,15 @@
 
 This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value. For an overview of the project and the vision behind it, you an view this [video](https://youtu.be/66r3A6EB0Ac).
 
-> "Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God." - Hebrews 13:16
+This list focuses on software projects. For collections of Christian documents, texts, confessions, and catechisms, check out other resource lists like [freely.giving](https://freely.giving).
 
+> "Do not neglect to do good and to share what you have, for such sacrifices are pleasing to God." - Hebrews 13:16
+>
 > "Freely you have received; freely give." - Matthew 10:8b
 
 [<img src="https://copy.church/badges/sj_alt_pde.svg" alt="copy.church logo" height="100px">](https://copy.church/)
+
+
 
 ## Key
 
@@ -15,7 +19,6 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 🤖/🍎 = Mobile App (Android/iOS)
 🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
 ⚙️ = API/Framework
-📑 = Document
 ▶️ = A video walkthrough of the project
 🌟 = This project is recommended (high quality, actively maintained, best in class, etc.)
 🏗️ = This project may not be finished or in a usable state
@@ -23,31 +26,7 @@ This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Fr
 TIP: To filter projects by a specific key in this list, copy the key (emoji) and paste it into the heading filter at the top right of this github readme.
 ```
 
-## [0-9](#0-9) [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
-
-## 0-9
-
----
-
-### [1689 Baptist Confession](https://gitlab.com/svrbc/baptistconfession.org) [🌐](https://baptistconfession.org/)
-
-Website for the "1689 Baptist Confession", also known as the "Second London Baptist Confession of Faith"
-
-<img src="https://gitlab.com/svrbc/baptistconfession.org/-/raw/master/public/favicon.ico?ref_type=heads" height="100px">
-
-![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fbaptistconfession.org) ![License](https://img.shields.io/gitlab/license/svrbc%2Fbaptistconfession.org) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fbaptistconfession.org?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fbaptistconfession.org) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fbaptistconfession.org) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fbaptistconfession.org)
-
----
-
-### [1695 Baptist Catechism](https://gitlab.com/svrbc/baptistcatechism.org) [🌐](https://baptistcatechism.org/)
-
-Website for the "1695 Baptist Catechism", often known as "Keach's Catechism"
-
-<img src="https://gitlab.com/svrbc/baptistcatechism.org/-/raw/master/public/favicon.png?ref_type=heads" height="100px">
-
-![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fbaptistcatechism.org) ![License](https://img.shields.io/gitlab/license/svrbc%2Fbaptistcatechism.org) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fbaptistcatechism.org?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fbaptistcatechism.org) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fbaptistcatechism.org) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fbaptistcatechism.org)
-
----
+## [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 ## A
 
@@ -90,16 +69,6 @@ Open Source Bible for Android
 <img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/img/icon-512.png" height="100px"> <img src="https://raw.githubusercontent.com/yukuku/androidbible/develop/publication/screenshots/kjv-nexuss-gen2.png" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/yukuku/androidbible) ![License](https://badgen.net/github/license/yukuku/androidbible) ![Stars](https://badgen.net/github/stars/yukuku/androidbible) ![Release](https://badgen.net/github/release/yukuku/androidbible) ![Contributors](https://badgen.net/github/contributors/yukuku/androidbible) ![Open Issues](https://badgen.net/github/open-issues/yukuku/androidbible)
-
----
-
-### [An Orthodox Catechism](https://gitlab.com/svrbc/anorthodoxcatechism.org) [🌐](https://anorthodoxcatechism.org/)
-
-Website for "An Orthodox Catechism" from Hercules Collins, the Baptist edition of the Heidelberg Catechism
-
-<img src="https://gitlab.com/svrbc/anorthodoxcatechism.org/-/raw/master/public/favicon.ico?ref_type=heads" height="100px">
-
-![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fanorthodoxcatechism.org) ![License](https://img.shields.io/gitlab/license/svrbc%2Fanorthodoxcatechism.org) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fanorthodoxcatechism.org?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fanorthodoxcatechism.org) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fanorthodoxcatechism.org) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fanorthodoxcatechism.org)
 
 ---
 
@@ -278,7 +247,7 @@ A total of 31,102 verses in 32 JSON files, cross referenced to as many as possib
 
 ---
 
-### [bible-genealogy](https://gitlab.com/bobby.estey/bible-genealogy) 📑
+### [bible-genealogy](https://gitlab.com/bobby.estey/bible-genealogy)
 
 Bible Genealogy Project
 
@@ -555,14 +524,6 @@ A fundraising platform for Christian ministry.
 
 ---
 
-### [Compendium](https://github.com/reformed-standards/compendium) [📑 🌐](https://reformedstandards.com/)
-
-Collection of reformed documents, such as confessions and catechisms
-
-![Last Commit](https://badgen.net/github/last-commit/reformed-standards/compendium) ![License](https://badgen.net/github/license/reformed-standards/compendium) ![Stars](https://badgen.net/github/stars/reformed-standards/compendium) ![Release](https://badgen.net/github/release/reformed-standards/compendium) ![Contributors](https://badgen.net/github/contributors/reformed-standards/compendium) ![Open Issues](https://badgen.net/github/open-issues/reformed-standards/compendium)
-
----
-
 ### ⚠️ [connexion](https://github.com/bishopm/connexion) 🌐
 
 Laravel-based church membership and website administration
@@ -671,7 +632,7 @@ A free and open-source, user-friendly presenter software
 
 ## G
 
-### [geneve_1564](https://github.com/raphink/geneve_1564) 📑
+### [geneve_1564](https://github.com/raphink/geneve_1564)
 
 LaTeX facsimile of a Bible de Genève, 1564
 
@@ -927,7 +888,7 @@ A community-driven collection of church hymns in JSON format for developers and 
 
 ---
 
-### 🌟 [OpenHymnal](http://openhymnal.org/) [📑 🌐](http://openhymnal.org/)
+### 🌟 [OpenHymnal](http://openhymnal.org/) [🌐](http://openhymnal.org/)
 
 Freely distributable, downloadable database of Christian hymns, spiritual songs, and prelude/postlude music
 
@@ -945,7 +906,7 @@ Worship presentation software designed to fit how you want to run your service.
 
 ---
 
-### [OpenSong](https://sourceforge.net/projects/opensong/) [📑 🌐](https://www.opensong.info/) [🪟 🖥️](https://sourceforge.net/projects/opensong/files/OpenSong/)
+### [OpenSong](https://sourceforge.net/projects/opensong/) [🌐](https://www.opensong.info/) [🪟 🖥️](https://sourceforge.net/projects/opensong/files/OpenSong/)
 
 Lyric projection and chord charts for church musicians
 
@@ -1234,7 +1195,7 @@ Bible study tool written for Linux, UNIX, and Windows
 
 ---
 
-### [XML-TEI-Bible](https://github.com/morethanbooks/XML-TEI-Bible) 📑 ⚙️
+### [XML-TEI-Bible](https://github.com/morethanbooks/XML-TEI-Bible) ⚙️
 
 Encoding the Bible in TEI, starting with the Gospels
 

@@ -1,5 +1,7 @@
 # Christian FOSS
 
+![Last Commit](https://badgen.net/github/last-commit/meichthys/christian_foss) ![License](https://badgen.net/github/license/meichthys/christian_foss) ![Stars](https://badgen.net/github/stars/meichthys/christian_foss) ![Contributors](https://badgen.net/github/contributors/meichthys/christian_foss) [![Signal Group](https://img.shields.io/badge/Signal-Join%20Group-3A76F0?logo=signal&logoColor=white)](https://signal.group/#CjQKIMFw-2DIhajDZ8xI63YIsHxHIKT3Arq31yiWbOgA5jYQEhBIwJfY05j-WAssinde5Ncz)
+
 This project intends to document as many [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software) Christian projects as possible. Developers and End-Users alike can use this as a reference to find and/or contribute to projects that have eternal value. For an overview of the project and the vision behind it, you an view this [video](https://youtu.be/66r3A6EB0Ac).
 
 This list focuses on software projects. For collections of Christian documents, texts, confessions, and catechisms, check out other resource lists like [freely.giving](https://freely.giving).
@@ -9,8 +11,6 @@ This list focuses on software projects. For collections of Christian documents, 
 > "Freely you have received; freely give." - Matthew 10:8b
 
 [<img src="https://copy.church/badges/sj_alt_pde.svg" alt="copy.church logo" height="100px">](https://copy.church/)
-
-
 
 ## Key
 

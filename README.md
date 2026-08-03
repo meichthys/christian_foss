@@ -35,7 +35,7 @@ Website for the "1689 Baptist Confession", also known as the "Second London Bapt
 
 <img src="https://gitlab.com/svrbc/baptistconfession.org/-/raw/master/public/favicon.ico?ref_type=heads" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/baptistconfession.org) ![License](https://badgen.net/gitlab/license/svrbc/baptistconfession.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/baptistconfession.org) ![Release](https://badgen.net/gitlab/release/svrbc/baptistconfession.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/baptistconfession.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/baptistconfession.org)
+![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fbaptistconfession.org) ![License](https://img.shields.io/gitlab/license/svrbc%2Fbaptistconfession.org) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fbaptistconfession.org?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fbaptistconfession.org) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fbaptistconfession.org) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fbaptistconfession.org)
 
 ---
 
@@ -45,7 +45,7 @@ Website for the "1695 Baptist Catechism", often known as "Keach's Catechism"
 
 <img src="https://gitlab.com/svrbc/baptistcatechism.org/-/raw/master/public/favicon.png?ref_type=heads" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/baptistcatechism.org) ![License](https://badgen.net/gitlab/license/svrbc/baptistcatechism.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/baptistcatechism.org) ![Release](https://badgen.net/gitlab/release/svrbc/baptistcatechism.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/baptistcatechism.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/baptistcatechism.org)
+![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fbaptistcatechism.org) ![License](https://img.shields.io/gitlab/license/svrbc%2Fbaptistcatechism.org) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fbaptistcatechism.org?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fbaptistcatechism.org) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fbaptistcatechism.org) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fbaptistcatechism.org)
 
 ---
 
@@ -99,7 +99,7 @@ Website for "An Orthodox Catechism" from Hercules Collins, the Baptist edition o
 
 <img src="https://gitlab.com/svrbc/anorthodoxcatechism.org/-/raw/master/public/favicon.ico?ref_type=heads" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/anorthodoxcatechism.org) ![License](https://badgen.net/gitlab/license/svrbc/anorthodoxcatechism.org) ![Stars](https://badgen.net/gitlab/stars/svrbc/anorthodoxcatechism.org) ![Release](https://badgen.net/gitlab/release/svrbc/anorthodoxcatechism.org) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/anorthodoxcatechism.org) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/anorthodoxcatechism.org)
+![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fanorthodoxcatechism.org) ![License](https://img.shields.io/gitlab/license/svrbc%2Fanorthodoxcatechism.org) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fanorthodoxcatechism.org?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fanorthodoxcatechism.org) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fanorthodoxcatechism.org) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fanorthodoxcatechism.org)
 
 ---
 
@@ -203,6 +203,14 @@ The whole Bible's redemptive history (Creation → Restoration) as one mobile sc
 
 ---
 
+### [Bible Quiz Game](https://github.com/azelife/Bible-Quiz-Game) 🌐
+
+Quiz management system with real-time Bible quiz control, scoring, and viewer
+
+![Last Commit](https://badgen.net/github/last-commit/azelife/Bible-Quiz-Game) ![License](https://badgen.net/github/license/azelife/Bible-Quiz-Game) ![Stars](https://badgen.net/github/stars/azelife/Bible-Quiz-Game) ![Release](https://badgen.net/github/release/azelife/Bible-Quiz-Game) ![Contributors](https://badgen.net/github/contributors/azelife/Bible-Quiz-Game) ![Open Issues](https://badgen.net/github/open-issues/azelife/Bible-Quiz-Game)
+
+---
+
 ### [Bible Verse](https://gitlab.com/robertmermet/bible-verse) ⚙️ [🌐](http://robertmermet.com/projects/bible-verse/)
 
 Displays a selected Bible verse, or verses, from the KJV.
@@ -210,7 +218,7 @@ You can change the Bible verse by pressing spacebar or by left clicking on the p
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/51857120/Screenshot_20231103_111034.png" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/robertmermet/bible-verse) ![License](https://badgen.net/gitlab/license/robertmermet/bible-verse) ![Stars](https://badgen.net/gitlab/stars/robertmermet/bible-verse) ![Release](https://badgen.net/gitlab/release/robertmermet/bible-verse) ![Contributors](https://badgen.net/gitlab/contributors/robertmermet/bible-verse) ![Open Issues](https://badgen.net/gitlab/open-issues/robertmermet/bible-verse)
+![Last Commit](https://img.shields.io/gitlab/last-commit/robertmermet%2Fbible-verse) ![License](https://img.shields.io/gitlab/license/robertmermet%2Fbible-verse) ![Stars](https://img.shields.io/gitlab/stars/robertmermet%2Fbible-verse?style=flat) ![Release](https://img.shields.io/gitlab/v/release/robertmermet%2Fbible-verse) ![Contributors](https://img.shields.io/gitlab/contributors/robertmermet%2Fbible-verse) ![Open Issues](https://img.shields.io/gitlab/issues/open/robertmermet%2Fbible-verse)
 
 ---
 
@@ -274,7 +282,7 @@ A total of 31,102 verses in 32 JSON files, cross referenced to as many as possib
 
 Bible Genealogy Project
 
-![Last Commit](https://badgen.net/gitlab/last-commit/bobby.estey/bible-genealogy) ![License](https://badgen.net/gitlab/license/bobby.estey/bible-genealogy) ![Stars](https://badgen.net/gitlab/stars/bobby.estey/bible-genealogy) ![Release](https://badgen.net/gitlab/release/bobby.estey/bible-genealogy) ![Contributors](https://badgen.net/gitlab/contributors/bobby.estey/bible-genealogy) ![Open Issues](https://badgen.net/gitlab/open-issues/bobby.estey/bible-genealogy)
+![Last Commit](https://img.shields.io/gitlab/last-commit/bobby.estey%2Fbible-genealogy) ![License](https://img.shields.io/gitlab/license/bobby.estey%2Fbible-genealogy) ![Stars](https://img.shields.io/gitlab/stars/bobby.estey%2Fbible-genealogy?style=flat) ![Release](https://img.shields.io/gitlab/v/release/bobby.estey%2Fbible-genealogy) ![Contributors](https://img.shields.io/gitlab/contributors/bobby.estey%2Fbible-genealogy) ![Open Issues](https://img.shields.io/gitlab/issues/open/bobby.estey%2Fbible-genealogy)
 
 ---
 
@@ -342,7 +350,7 @@ A Bible server written in Rust using Actix Web and Diesel
 
 <img src="https://gitlab.com/kerygmadigital/biblebot/BibleBot/-/raw/master/src/BibleBot.Frontend/data/avatar.png" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/kerygmadigital/biblebot/BibleBot) ![License](https://badgen.net/gitlab/license/kerygmadigital/biblebot/BibleBot) ![Stars](https://badgen.net/gitlab/stars/kerygmadigital/biblebot/BibleBot) ![Release](https://badgen.net/gitlab/release/kerygmadigital/biblebot/BibleBot) ![Contributors](https://badgen.net/gitlab/contributors/kerygmadigital/biblebot/BibleBot) ![Open Issues](https://badgen.net/gitlab/open-issues/kerygmadigital/biblebot/BibleBot)
+![Last Commit](https://img.shields.io/gitlab/last-commit/kerygmadigital%2Fbiblebot%2FBibleBot) ![License](https://img.shields.io/gitlab/license/kerygmadigital%2Fbiblebot%2FBibleBot) ![Stars](https://img.shields.io/gitlab/stars/kerygmadigital%2Fbiblebot%2FBibleBot?style=flat) ![Release](https://img.shields.io/gitlab/v/release/kerygmadigital%2Fbiblebot%2FBibleBot) ![Contributors](https://img.shields.io/gitlab/contributors/kerygmadigital%2Fbiblebot%2FBibleBot) ![Open Issues](https://img.shields.io/gitlab/issues/open/kerygmadigital%2Fbiblebot%2FBibleBot)
 
 ---
 
@@ -362,7 +370,7 @@ Daily scripture reading plans podcast generator
 
 <img src="https://cdn18.picryl.com/photo/2019/10/04/an-illuminated-page-of-thegutenberg-bible-dc42a4-640.jpg" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/svrbc/biblepod.app) ![License](https://badgen.net/gitlab/license/svrbc/biblepod.app) ![Stars](https://badgen.net/gitlab/stars/svrbc/biblepod.app) ![Release](https://badgen.net/gitlab/release/svrbc/biblepod.app) ![Contributors](https://badgen.net/gitlab/contributors/svrbc/biblepod.app) ![Open Issues](https://badgen.net/gitlab/open-issues/svrbc/biblepod.app)
+![Last Commit](https://img.shields.io/gitlab/last-commit/svrbc%2Fbiblepod.app) ![License](https://img.shields.io/gitlab/license/svrbc%2Fbiblepod.app) ![Stars](https://img.shields.io/gitlab/stars/svrbc%2Fbiblepod.app?style=flat) ![Release](https://img.shields.io/gitlab/v/release/svrbc%2Fbiblepod.app) ![Contributors](https://img.shields.io/gitlab/contributors/svrbc%2Fbiblepod.app) ![Open Issues](https://img.shields.io/gitlab/issues/open/svrbc%2Fbiblepod.app)
 
 ---
 
@@ -390,7 +398,7 @@ Bible multi languages, free, offline, no advertising, completely in English, Fre
 
 <img src="https://gitlab.com/hotlittlewhitedog/BibleMultiTheLight/-/raw/master/fastlane/metadata/android/en-US/images/icon.png" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/hotlittlewhitedog/BibleMultiTheLight) ![License](https://badgen.net/gitlab/license/hotlittlewhitedog/BibleMultiTheLight) ![Stars](https://badgen.net/gitlab/stars/hotlittlewhitedog/BibleMultiTheLight) ![Release](https://badgen.net/gitlab/release/hotlittlewhitedog/BibleMultiTheLight) ![Contributors](https://badgen.net/gitlab/contributors/hotlittlewhitedog/BibleMultiTheLight) ![Open Issues](https://badgen.net/gitlab/open-issues/hotlittlewhitedog/BibleMultiTheLight)
+![Last Commit](https://img.shields.io/gitlab/last-commit/hotlittlewhitedog%2FBibleMultiTheLight) ![License](https://img.shields.io/gitlab/license/hotlittlewhitedog%2FBibleMultiTheLight) ![Stars](https://img.shields.io/gitlab/stars/hotlittlewhitedog%2FBibleMultiTheLight?style=flat) ![Release](https://img.shields.io/gitlab/v/release/hotlittlewhitedog%2FBibleMultiTheLight) ![Contributors](https://img.shields.io/gitlab/contributors/hotlittlewhitedog%2FBibleMultiTheLight) ![Open Issues](https://img.shields.io/gitlab/issues/open/hotlittlewhitedog%2FBibleMultiTheLight)
 
 ---
 
@@ -400,7 +408,7 @@ Bible multi languages for Terminal. Easy to use with quick searches, parables, a
 
 <img src="https://gitlab.com/hotlittlewhitedog/BibleMultiTheSonOfMan/-/raw/master/org.hlwd.sonofman128x128.png?ref_type=heads" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/hotlittlewhitedog/BibleMultiTheSonOfMan) ![License](https://badgen.net/gitlab/license/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Stars](https://badgen.net/gitlab/stars/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Release](https://badgen.net/gitlab/release/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Contributors](https://badgen.net/gitlab/contributors/hotlittlewhitedog/BibleMultiTheSonOfMan) ![Open Issues](https://badgen.net/gitlab/open-issues/hotlittlewhitedog/BibleMultiTheSonOfMan)
+![Last Commit](https://img.shields.io/gitlab/last-commit/hotlittlewhitedog%2FBibleMultiTheSonOfMan) ![License](https://img.shields.io/gitlab/license/hotlittlewhitedog%2FBibleMultiTheSonOfMan) ![Stars](https://img.shields.io/gitlab/stars/hotlittlewhitedog%2FBibleMultiTheSonOfMan?style=flat) ![Release](https://img.shields.io/gitlab/v/release/hotlittlewhitedog%2FBibleMultiTheSonOfMan) ![Contributors](https://img.shields.io/gitlab/contributors/hotlittlewhitedog%2FBibleMultiTheSonOfMan) ![Open Issues](https://img.shields.io/gitlab/issues/open/hotlittlewhitedog%2FBibleMultiTheSonOfMan)
 
 ---
 
@@ -500,6 +508,16 @@ CHUrch Management Software
 
 ---
 
+### [ChurchCMS](https://github.com/church-cms/church-cms-laravel) [🌐](https://churchcms.app)
+
+Church management platform designed for ministries that need a single system for member data, communication, sermons, events, prayer workflows, media, and community engagement
+
+<img src="https://raw.githubusercontent.com/church-cms/church-cms-laravel/main/public/images/church_cms_logo.jpg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/church-cms/church-cms-laravel) ![License](https://badgen.net/github/license/church-cms/church-cms-laravel) ![Stars](https://badgen.net/github/stars/church-cms/church-cms-laravel) ![Release](https://badgen.net/github/release/church-cms/church-cms-laravel) ![Contributors](https://badgen.net/github/contributors/church-cms/church-cms-laravel) ![Open Issues](https://badgen.net/github/open-issues/church-cms/church-cms-laravel)
+
+---
+
 ### 🌟 [ChurchCRM](https://github.com/ChurchCRM/CRM) [🌐](https://churchcrm.io/)
 
 An OpenSource CRM System Built for Churches
@@ -571,7 +589,7 @@ Are you tired of struggling to find a reliable software solution to display Scri
 
 <img src="https://gitlab.com/uploads/-/system/project/avatar/39304003/dauf.png" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/dauf-l/dauf-app) ![License](https://badgen.net/gitlab/license/dauf-l/dauf-app) ![Stars](https://badgen.net/gitlab/stars/dauf-l/dauf-app) ![Release](https://badgen.net/gitlab/release/dauf-l/dauf-app) ![Contributors](https://badgen.net/gitlab/contributors/dauf-l/dauf-app) ![Open Issues](https://badgen.net/gitlab/open-issues/dauf-l/dauf-app)
+![Last Commit](https://img.shields.io/gitlab/last-commit/dauf-l%2Fdauf-app) ![License](https://img.shields.io/gitlab/license/dauf-l%2Fdauf-app) ![Stars](https://img.shields.io/gitlab/stars/dauf-l%2Fdauf-app?style=flat) ![Release](https://img.shields.io/gitlab/v/release/dauf-l%2Fdauf-app) ![Contributors](https://img.shields.io/gitlab/contributors/dauf-l%2Fdauf-app) ![Open Issues](https://img.shields.io/gitlab/issues/open/dauf-l%2Fdauf-app)
 
 ---
 
@@ -787,6 +805,26 @@ A high quality, visual, open source tool to give users access to the Holy Bible 
 
 ---
 
+### [Memorize Scripture](https://github.com/ethnosdev/memorize_scripture) [🌐](https://ethnos.dev/apps/memorize-scripture/tutorial/) [🤖](https://play.google.com/store/apps/details?id=dev.ethnos.memorize_scripture)/[🍎](https://apps.apple.com/us/app/memorize-scripture-ethnosdev/id6449814205)
+
+A cross-platform scripture memory app for Android and iOS written in Flutter
+
+<img src="https://raw.githubusercontent.com/ethnosdev/memorize_scripture/master/assets/logo.svg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/ethnosdev/memorize_scripture) ![License](https://badgen.net/github/license/ethnosdev/memorize_scripture) ![Stars](https://badgen.net/github/stars/ethnosdev/memorize_scripture) ![Release](https://badgen.net/github/release/ethnosdev/memorize_scripture) ![Contributors](https://badgen.net/github/contributors/ethnosdev/memorize_scripture) ![Open Issues](https://badgen.net/github/open-issues/ethnosdev/memorize_scripture)
+
+---
+
+### [Memory Bible](https://github.com/Ans-C17/memory-bible)
+
+A Bible verse memorization app built with the MERN stack and backend
+
+<img src="https://raw.githubusercontent.com/Ans-C17/memory-bible/main/public/bible-icon.svg" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/Ans-C17/memory-bible) ![License](https://badgen.net/github/license/Ans-C17/memory-bible) ![Stars](https://badgen.net/github/stars/Ans-C17/memory-bible) ![Release](https://badgen.net/github/release/Ans-C17/memory-bible) ![Contributors](https://badgen.net/github/contributors/Ans-C17/memory-bible) ![Open Issues](https://badgen.net/github/open-issues/Ans-C17/memory-bible)
+
+---
+
 ### [morphhb](https://github.com/openscriptures/morphhb) [🌐](https://hb.openscriptures.org/) ⚙️
 
 Open Scriptures Hebrew Bible
@@ -903,7 +941,7 @@ Worship presentation software designed to fit how you want to run your service.
 
 <img src="https://gitlab.com/openlp/openlp/-/raw/master/resources/images/openlp-about-logo.png" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/openlp/openlp) ![License](https://badgen.net/gitlab/license/openlp/openlp) ![Stars](https://badgen.net/gitlab/stars/openlp/openlp) ![Release](https://badgen.net/gitlab/release/openlp/openlp) ![Contributors](https://badgen.net/gitlab/contributors/openlp/openlp) ![Open Issues](https://badgen.net/gitlab/open-issues/openlp/openlp)
+![Last Commit](https://img.shields.io/gitlab/last-commit/openlp%2Fopenlp) ![License](https://img.shields.io/gitlab/license/openlp%2Fopenlp) ![Stars](https://img.shields.io/gitlab/stars/openlp%2Fopenlp?style=flat) ![Release](https://img.shields.io/gitlab/v/release/openlp%2Fopenlp) ![Contributors](https://img.shields.io/gitlab/contributors/openlp%2Fopenlp) ![Open Issues](https://img.shields.io/gitlab/issues/open/openlp%2Fopenlp)
 
 ---
 
@@ -971,7 +1009,7 @@ The free, fun, and effective way to memorize Bible verses! No ads, no restrictio
 
 <img src="https://gitlab.com/remem-me/app/-/raw/develop/assets/icon/app.png" height="100px">
 
-![Last Commit](https://badgen.net/gitlab/last-commit/remem-me/app) ![License](https://badgen.net/gitlab/license/remem-me/app) ![Stars](https://badgen.net/gitlab/stars/remem-me/app) ![Release](https://badgen.net/gitlab/release/remem-me/app) ![Contributors](https://badgen.net/gitlab/contributors/remem-me/app) ![Open Issues](https://badgen.net/gitlab/open-issues/remem-me/app)
+![Last Commit](https://img.shields.io/gitlab/last-commit/remem-me%2Fapp) ![License](https://img.shields.io/gitlab/license/remem-me%2Fapp) ![Stars](https://img.shields.io/gitlab/stars/remem-me%2Fapp?style=flat) ![Release](https://img.shields.io/gitlab/v/release/remem-me%2Fapp) ![Contributors](https://img.shields.io/gitlab/contributors/remem-me%2Fapp) ![Open Issues](https://img.shields.io/gitlab/issues/open/remem-me%2Fapp)
 
 ---
 

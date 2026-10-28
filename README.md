@@ -812,6 +812,14 @@ Free & open-source church website and management platform.
 
 ---
 
+### [Offline Bible Reference Normalizer](https://github.com/szj2ys/bible-reference-normalizer) [🌐](https://szj2ys.github.io/bible-reference-normalizer/)
+
+Offline Python utility for normalizing English and simplified-Chinese Bible references into JSON Lines. Uses a 66-book map and checks chapter bounds; verse existence is not validated. Developed with AI assistance; no AI service or network access is used at runtime.
+
+![Last Commit](https://badgen.net/github/last-commit/szj2ys/bible-reference-normalizer) ![License](https://badgen.net/github/license/szj2ys/bible-reference-normalizer) ![Stars](https://badgen.net/github/stars/szj2ys/bible-reference-normalizer) ![Contributors](https://badgen.net/github/contributors/szj2ys/bible-reference-normalizer) ![Open Issues](https://badgen.net/github/open-issues/szj2ys/bible-reference-normalizer)
+
+---
+
 ### [Open Bible Text](https://github.com/hiscoder-com/obt) [🌐](https://openbibletext.com/)
 
  An application for advanced Bible study using opensource materials from git.door43.org.

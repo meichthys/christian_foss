@@ -117,7 +117,7 @@ ReactNative mobile application for B1.church
 
 ---
 
-### 🌟 [Baptist Missions OS](https://github.com/baptistmissionsos) [🌐](https://baptistmissionsos.github.io/) [💿](https://baptistmissionsos.github.io/bmos-user-live_amd64_2026-04-12_2007.iso.torrent) 
+### 🌟 [Baptist Missions OS](https://github.com/baptistmissionsos) [🌐](https://baptistmissionsos.github.io/) [💿](https://baptistmissionsos.github.io/downloads/bmos-user-live_amd64_2026-04-12_2007.iso.torrent) 
 
 Open-source Custom Linux Distro & software suite for Baptist missions and missionaries.
 

@@ -16,9 +16,9 @@ This list focuses on software projects. For collections of Christian documents, 
 
 ```key
 🌐 = Website Link
+💿 = Operating System (Linux)
 🤖/🍎 = Mobile App (Android/iOS)
 🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
-💿 = Operating System (Linux)
 ⚙️ = API/Framework
 ▶️ = A video walkthrough of the project
 🌟 = This project is recommended (high quality, actively maintained, best in class, etc.)

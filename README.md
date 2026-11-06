@@ -18,6 +18,7 @@ This list focuses on software projects. For collections of Christian documents, 
 🌐 = Website Link
 🤖/🍎 = Mobile App (Android/iOS)
 🪟/🍏/🖥️ = Desktop App (Windows/MacOS/Linux)
+💿 = Operating System (Linux)
 ⚙️ = API/Framework
 ▶️ = A video walkthrough of the project
 🌟 = This project is recommended (high quality, actively maintained, best in class, etc.)
@@ -113,6 +114,12 @@ ReactNative mobile application for B1.church
 <img src="https://github.com/ChurchApps/B1Mobile/raw/refs/heads/main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" height="100px">
 
 ![Last Commit](https://badgen.net/github/last-commit/ChurchApps/B1Mobile) ![License](https://badgen.net/github/license/ChurchApps/B1Mobile) ![Stars](https://badgen.net/github/stars/ChurchApps/B1Mobile) ![Release](https://badgen.net/github/release/ChurchApps/B1Mobile) ![Contributors](https://badgen.net/github/contributors/ChurchApps/B1Mobile) ![Open Issues](https://badgen.net/github/open-issues/ChurchApps/B1Mobile)
+
+---
+
+### 🌟 [Baptist Missions OS](https://github.com/baptistmissionsos) [🌐](https://baptistmissionsos.github.io/) [💿](https://baptistmissionsos.github.io/bmos-user-live_amd64_2026-04-12_2007.iso.torrent) 
+
+Open-source Custom Linux Distro & software suite for Baptist missions and missionaries.
 
 ---
 

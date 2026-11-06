@@ -121,6 +121,9 @@ ReactNative mobile application for B1.church
 
 Open-source Custom Linux Distro & software suite for Baptist missions and missionaries.
 
+<img src="https://github.com/user-attachments/assets/399d7743-a225-420f-95ab-09dc78288c3b" height="100px">
+
+
 ---
 
 ### 🌟 [be-still](https://github.com/cameronapak/be-still) [🌐](https://ft-be-still.netlify.app/)

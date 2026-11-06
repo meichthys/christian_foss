@@ -121,7 +121,7 @@ ReactNative mobile application for B1.church
 
 Open-source Custom Linux Distro & software suite for Baptist missions and missionaries.
 
-<img src="https://github.com/user-attachments/assets/399d7743-a225-420f-95ab-09dc78288c3b" height="100px">
+<img src="https://raw.githubusercontent.com/BaptistMissionsOS/BaptistMissionsOS.github.io/refs/heads/main/screenshots/desk.png" height="100px">
 
 
 ---

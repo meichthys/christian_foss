@@ -190,6 +190,16 @@ Quiz management system with real-time Bible quiz control, scoring, and viewer
 
 ---
 
+### [Bible SDK](https://github.com/cameronapak/bible-sdk) [🌐](https://bible-sdk.com) ⚙️
+
+Unified Bible data SDK with optional Scripture web components for displaying passages and linking Bible references (formerly Scripture Inline). Created and maintained by AI agents, with a human in the loop.
+
+<img src="https://raw.githubusercontent.com/cameronapak/bible-sdk/main/assets/banner.png" height="100px">
+
+![Last Commit](https://badgen.net/github/last-commit/cameronapak/bible-sdk) ![License](https://badgen.net/github/license/cameronapak/bible-sdk) ![Stars](https://badgen.net/github/stars/cameronapak/bible-sdk) ![Release](https://badgen.net/github/release/cameronapak/bible-sdk) ![Contributors](https://badgen.net/github/contributors/cameronapak/bible-sdk) ![Open Issues](https://badgen.net/github/open-issues/cameronapak/bible-sdk)
+
+---
+
 ### [Bible Verse](https://gitlab.com/robertmermet/bible-verse) ⚙️ [🌐](http://robertmermet.com/projects/bible-verse/)
 
 Displays a selected Bible verse, or verses, from the KJV.
